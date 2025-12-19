@@ -1,0 +1,85 @@
+version: '3.8'
+
+services:
+  timescaledb:
+    image: timescale/timescaledb:latest-pg14
+    container_name: sentient_db
+    environment:
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_USER=admin
+      - POSTGRES_DB=sentient_alpha
+    volumes:
+      - timescaledb_data:/var/lib/postgresql/data
+      - ./scripts/init_db.sql:/docker-entrypoint-initdb.d/init.sql
+    ports:
+      - "5432:5432"
+    restart: always
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U admin -d sentient_alpha"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ✅ FIXED: Indented correctly (same level as timescaledb)
+  edgar_processor:
+    build: ./services/edgar_processor
+    container_name: sentient_analyst
+    environment:
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - PYTHONUNBUFFERED=1
+      - HF_TOKEN=${HUGGINGFACE_TOKEN} # Passes the key from your .env file
+    depends_on:
+      - timescaledb
+
+  redpanda:
+    image: docker.redpanda.com/redpandadata/redpanda:latest
+    container_name: sentient_queue
+    command:
+      - redpanda start
+      - --smp 1
+      - --memory 1G
+      - --kafka-addr internal://0.0.0.0:9092,external://0.0.0.0:19092
+      - --advertise-kafka-addr internal://redpanda:9092,external://localhost:19092
+    ports:
+      - "19092:19092"
+      - "9644:9644"
+
+  console:
+    image: docker.redpanda.com/redpandadata/console:latest
+    container_name: sentient_console
+    environment:
+      - KAFKA_BROKERS=redpanda:9092
+    ports:
+      - "8080:8080"
+    depends_on:
+      - redpanda
+
+  market_ingestor:
+    build: ./services/market_data
+    container_name: sentient_ingestor
+    environment:
+      - ALPACA_KEY=${ALPACA_KEY}
+      - ALPACA_SECRET=${ALPACA_SECRET}
+      - KAFKA_BROKER=redpanda:9092
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - redpanda
+      - timescaledb
+
+  market_writer:
+    build: ./services/market_data
+    container_name: sentient_writer
+    command: python consumer.py
+    environment:
+      - KAFKA_BROKER=redpanda:9092
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_DB=sentient_alpha
+      - POSTGRES_USER=admin
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - redpanda
+      - timescaledb
+      - market_ingestor
+
+volumes:
+  timescaledb_data:

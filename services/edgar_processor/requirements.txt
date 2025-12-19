@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-postgres
+langchain-huggingface
+sentence-transformers
+pgvector
+psycopg2-binary
+beautifulsoup4
+requests
+python-dotenv
