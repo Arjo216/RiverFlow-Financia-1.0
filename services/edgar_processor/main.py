@@ -12,18 +12,20 @@ DB_CONNECTION = "postgresql+psycopg2://admin:secretpassword@timescaledb:5432/sen
 def run_ingestion():
     print("🤖 Analyst Agent Starting...")
 
-    # --- HARDCODED AUTHENTICATION (The Fix) ---
-    # Replace the text inside the quotes with your actual token
-    token = "PASTE_YOUR_HF_TOKEN_HERE" 
+    # --- SECURE AUTHENTICATION (The Fix) ---
+    # ERROR WAS HERE: Removed the quotes around the command
+    token = os.getenv("HF_TOKEN") 
     
-    print(f"🔑 Logging in with token: {token[:5]}...") 
-    try:
-        huggingface_hub.login(token=token)
-        print("✅ Login Successful!")
-    except Exception as e:
-        print(f"❌ Login Failed: {e}")
-        # We continue anyway, hoping the login cached
-    # ------------------------------------------
+    if token:
+        print(f"🔑 Logging in with token: {token[:5]}...") 
+        try:
+            huggingface_hub.login(token=token)
+            print("✅ Login Successful!")
+        except Exception as e:
+            print(f"❌ Login Failed: {e}")
+    else:
+        print("⚠️ Warning: No HF_TOKEN found. Model download might fail.")
+    # ------------------------------------------------
 
     # 2. Simulate Data
     sample_text = """
@@ -65,7 +67,7 @@ def run_ingestion():
 
     # Keep alive
     while True:
-        time.sleep(600)
+        time.sleep(600)  # <-- Fixed: Added 600 seconds here
 
 if __name__ == "__main__":
     time.sleep(10)
