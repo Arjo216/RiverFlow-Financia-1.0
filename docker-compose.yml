@@ -58,9 +58,12 @@ services:
     build: ./services/market_data
     container_name: sentient_ingestor
     environment:
-      - ALPACA_KEY=${ALPACA_KEY}
-      - ALPACA_SECRET=${ALPACA_SECRET}
       - KAFKA_BROKER=redpanda:9092
+      - POSTGRES_DB=sentient_alpha
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - ALPACA_KEY=${ALPACA_KEY}       # <--- ADD THIS
+      - ALPACA_SECRET=${ALPACA_SECRET} # <--- ADD THIS
       - PYTHONUNBUFFERED=1
     depends_on:
       - redpanda
