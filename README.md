@@ -3,52 +3,50 @@ Autonomous Multi-Agent Hedge Fund Architecture. Combines Event-Driven Microservi
 
 # 🌊 RiverFlow Finance: AI-Driven Event Pipeline
 
-**RiverFlow Finance** is an autonomous, event-driven financial data pipeline designed to ingest real-time market data and analyze financial sentiment using AI.
+# 💠 RiverFlow Apex 4.0: Autonomous Intelligence Engine
+> **Next-Generation Quantitative Trading Framework with Groq AI Reasoning**
 
-It combines **High-Frequency Data Engineering** (Kafka/Redpanda) with **Generative AI** (RAG/Vector Embeddings) to create a system that "sees" price movements and "reads" financial reports simultaneously.
+RiverFlow Apex is an institutional-grade algorithmic trading suite that fuses high-speed technical analysis with Large Language Model (LLM) sentiment synthesis. It is designed for autonomous execution on the Alpaca paper trading exchange.
 
----
+## 🚀 Core Architecture
+* **Neural Engine**: Leverages Llama-3.3-70B via **Groq LPUs** for sub-second financial news reasoning.
+* **Technical Suite**: Integrated **RSI, MACD, and ATR** calculators for multi-factor signal confluence.
+* **Volatility Shield**: Dynamic risk management using **Average True Range (ATR)** to adapt stop-losses to market regimes.
+* **Real-time Intelligence**: Live news aggregation via **CryptoPanic API**.
+* **Mobile Command**: Professional Markdown-formatted alerts via **Telegram Bot API**.
 
-## 🚀 Architecture
-
-The system is containerized using Docker and consists of four main components:
-
-### 1. 📡 Market Ingestor (The Eyes)
-* **Tech:** Python, Alpaca API (WebSockets)
-* **Role:** Listens to real-time crypto markets (e.g., BTC/USD).
-* **Output:** Streams raw trade/quote data into the Event Bus.
-
-### 2. 📨 Event Bus (The Nervous System)
-* **Tech:** Redpanda (Kafka-compatible), High-throughput
-* **Role:** Buffers data between producers and consumers to ensure zero data loss during high-volatility bursts.
-
-### 3. 💾 Data Persistence (The Memory)
-* **Tech:** TimescaleDB (PostgreSQL Extension)
-* **Role:** Stores massive amounts of time-series market data.
-* **Writer Service:** A dedicated Python consumer that pulls from Kafka and writes to DB efficiently.
-
-### 4. 🧠 AI Analyst (The Brain)
-* **Tech:** LangChain, Hugging Face, pgvector
-* **Role:** Reads financial documents (10-K filings, news), converts text into Vector Embeddings, and stores them in `pgvector` for Semantic Search and RAG (Retrieval-Augmented Generation).
-
----
+## 📊 Strategy Confluence (Triple-Lock)
+A trade is only executed when three distinct independent layers agree:
+1.  **Math**: RSI indicates an oversold dip (< 40).
+2.  **Momentum**: MACD signal crossover confirms upward trend.
+3.  **Sentiment**: Groq AI assigns a confidence score > 0.3 to the current news cycle.
 
 ## 🛠️ Tech Stack
+* **Language**: Python 3.9+
+* **Infrastructure**: Docker & Docker Compose
+* **Database**: TimescaleDB (Time-series optimized PostgreSQL)
+* **Messaging**: Redpanda (High-performance Kafka alternative)
 
-* **Languages:** Python 3.9+
-* **Infrastructure:** Docker, Docker Compose
-* **Streaming:** Redpanda (Kafka)
-* **Database:** TimescaleDB + pgvector
-* **AI/ML:** LangChain, Sentence-Transformers (Hugging Face)
+## 🛡️ Risk Management
+* **Stop-Loss**: Volatility-adjusted (ATR x 2.0).
+* **Take-Profit**: Fixed at 4% for disciplined capital harvesting.
+* **Position Sizing**: Hard-capped at 10% of total equity per trade.
+
+## 🚦 Quick Start (Post-Maintenance)
+1. **Initialize Infrastructure**: `docker-compose up -d`
+2. **Deploy Strategy**: `docker cp services/market_data/strategy.py sentient_writer:/app/strategy.py`
+3. **Engage Engine**: `docker exec -it sentient_writer python strategy.py`
 
 ---
-
-## ⚡ Quick Start
 
 ### 1. Prerequisites
 * Docker & Docker Compose installed.
 * Alpaca Markets API Keys (Free Tier).
 * Hugging Face Access Token (Write permissions).
+
+
+*Disclaimer: For educational purposes only. Automated trading involves significant risk of loss.*
+
 
 ### 2. Environment Setup
 Create a `.env` file in the root directory:

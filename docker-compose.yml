@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   timescaledb:
     image: timescale/timescaledb:latest-pg14
@@ -20,14 +18,13 @@ services:
       timeout: 5s
       retries: 5
 
-  # ✅ FIXED: Indented correctly (same level as timescaledb)
   edgar_processor:
     build: ./services/edgar_processor
     container_name: sentient_analyst
     environment:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - PYTHONUNBUFFERED=1
-      - HF_TOKEN=${HUGGINGFACE_TOKEN} # Passes the key from your .env file
+      - HF_TOKEN=${HUGGINGFACE_TOKEN}
     depends_on:
       - timescaledb
 
@@ -62,10 +59,12 @@ services:
       - POSTGRES_DB=sentient_alpha
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=${DB_PASSWORD}
-      - ALPACA_KEY=${ALPACA_KEY}       # <--- ADD THIS
+      - ALPACA_KEY=${ALPACA_KEY}       
       - ALPACA_SECRET=${ALPACA_SECRET}
       - CRYPTOPANIC_KEY=${CRYPTOPANIC_KEY}
-      - GROQ_API_KEY=${GROQ_API_KEY} # <--- ADD THIS
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}     
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID} 
       - PYTHONUNBUFFERED=1
     depends_on:
       - redpanda
@@ -80,6 +79,12 @@ services:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - POSTGRES_DB=sentient_alpha
       - POSTGRES_USER=admin
+      - ALPACA_KEY=${ALPACA_KEY}      # Added for Strategy 4.0
+      - ALPACA_SECRET=${ALPACA_SECRET}
+      - CRYPTOPANIC_KEY=${CRYPTOPANIC_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - TELEGRAM_CHAT_ID=${TELEGRAM_CHAT_ID}
       - PYTHONUNBUFFERED=1
     depends_on:
       - redpanda
