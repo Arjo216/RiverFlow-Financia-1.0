@@ -64,7 +64,8 @@ services:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - ALPACA_KEY=${ALPACA_KEY}       # <--- ADD THIS
       - ALPACA_SECRET=${ALPACA_SECRET}
-      - CRYPTOPANIC_KEY=${CRYPTOPANIC_KEY} # <--- ADD THIS
+      - CRYPTOPANIC_KEY=${CRYPTOPANIC_KEY}
+      - GROQ_API_KEY=${GROQ_API_KEY} # <--- ADD THIS
       - PYTHONUNBUFFERED=1
     depends_on:
       - redpanda

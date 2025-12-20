@@ -8,3 +8,4 @@ pandas-ta
 requests
 pandas
 numpy
+groq
