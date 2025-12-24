@@ -53,7 +53,7 @@ Create a `.env` file in the root directory:
 ```bash
 ALPACA_KEY=your_alpaca_key
 ALPACA_SECRET=your_alpaca_secret
-DB_PASSWORD=secretpassword
+DB_PASSWORD=mysecretpassword0
 HUGGINGFACE_TOKEN=hf_your_token
 KAFKA_BROKER=redpanda:9092
 
