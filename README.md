@@ -69,13 +69,53 @@ KAFKA_BROKER=redpanda:9092
 └── README.md               # Documentation
 
 
-
 🔮 Future Roadmap:
 Connect AI Analyst to Live News API.
 
 Implement Trading Execution based on Sentiment + Technical Analysis.
 
 Deploy to Kubernetes (EKS/GKE).
+
+## 🗺️ Strategic Roadmap & Architecture Analysis
+
+This project is guided by a comprehensive institutional SWOT analysis (**RiverFlow Framework**), prioritizing regulatory compliance and architectural reliability over experimental features.
+
+### 🚦 SWOT Summary (Q1 2026 Strategy)
+
+| Strategic Dimension | Assessment | Score | Action Plan |
+|---------------------|------------|-------|-------------|
+| **Intellectual Differentiation** | ⭐⭐⭐⭐⭐ | 9/10 | **Maintain:** Multi-agent architecture remains core. |
+| **Industry Alignment** | ⭐⭐⭐⭐⭐ | 9/10 | **Focus:** Double down on RAG & Compliance. |
+| **Data Pipeline (Phase 1)** | ⭐⭐⭐⭐⭐ | 10/10 | **Completed:** RiverFlow Apex 4.0 is production-ready. |
+| **RAG Implementation** | ⭐⭐⭐⭐ | 7/10 | **Next Step:** Implement hallucination evaluation suites. |
+| **GNN Risk Modeling** | ⭐⭐ | 3/10 | **Pivot:** Downgrade to "Research Prototype" status. |
+| **RL Execution** | ⭐⭐ | 3/10 | **Mitigate:** Replace with Rule-Based Execution (Current). |
+| **Regulatory Compliance** | ⭐ | 2/10 | **Critical:** Immediate focus for next iteration. |
+
+---
+
+### 🔭 Future Development Phases
+
+#### Phase A: The "Analyst" Upgrade (RAG Pipeline)
+**Objective:** Transition from simple headline analysis (Groq) to full document intelligence.
+- [ ] **Data Source:** Integrate direct SEC 10-K filing downloads.
+- [ ] **Architecture:** Deploy dedicated `analyst-agent` service using LangChain.
+- [ ] **Compliance:** Add "Citation Tracking" to link specific trade signals to document page numbers.
+- [ ] **Quality:** Implement `FailSafeQA` benchmarks to measure hallucination rates.
+
+#### Phase B: The "Glass Box" Dashboard
+**Objective:** Solve the "Black Box" problem by visualizing decision logic.
+- [ ] **Frontend:** Streamlit/Next.js dashboard for real-time monitoring.
+- [ ] **Explainability:** Visual breakdown of the "Triple-Lock" signal (RSI + MACD + Sentiment).
+- [ ] **Audit Trail:** Immutable logs of *why* every trade was executed (Regulatory requirement).
+
+#### Phase C: Supply Chain Graph (Research)
+**Objective:** Map hidden supplier risks without affecting production trading.
+- [ ] **Graph DB:** Initialize Neo4j for relationship mapping.
+- [ ] **Inference:** Offline analysis of supplier shock propagation.
+- [ ] **Isolation:** Run strictly in "Shadow Mode" (no execution authority).
+
+> *"RiverFlow prioritizes the reliability of a Honda over the theoretical speed of a Formula 1 car without brakes."*
 
 ---
 
