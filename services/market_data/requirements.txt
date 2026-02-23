@@ -3,8 +3,6 @@ confluent-kafka
 python-dotenv
 psycopg2-binary
 alpaca-trade-api
-python-dotenv
-pandas-ta
 requests
 pandas
 numpy

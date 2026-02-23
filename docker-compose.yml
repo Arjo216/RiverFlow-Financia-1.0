@@ -21,10 +21,31 @@ services:
   edgar_processor:
     build: ./services/edgar_processor
     container_name: sentient_analyst
+    env_file: .env
     environment:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - PYTHONUNBUFFERED=1
       - HF_TOKEN=${HUGGINGFACE_TOKEN}
+    volumes:
+      - ./services/market_data:/app
+      - hf_cache:/root/.cache/huggingface # Persistent storage for AI models
+    depends_on:
+      - timescaledb
+
+  dashboard:
+    container_name: sentient_dashboard
+    image: python:3.9-slim
+    volumes:
+      - ./services/market_data:/app
+    working_dir: /app
+    env_file: .env
+    # The "Peak Version" setup: Installing visual assets and launching the Command Center
+    command: >
+      sh -c "pip install --extra-index-url https://download.pytorch.org/whl/cpu torch && 
+             pip install streamlit pandas plotly sqlalchemy psycopg2-binary python-dotenv langchain langchain_community langchain-groq langchain-huggingface langchain-postgres sentence-transformers pgvector && 
+             streamlit run dashboard.py --server.port=8501 --server.address=0.0.0.0"
+    ports:
+      - "8501:8501"
     depends_on:
       - timescaledb
 
@@ -73,13 +94,16 @@ services:
   market_writer:
     build: ./services/market_data
     container_name: sentient_writer
-    command: python consumer.py
+    command: python strategy.py     # <--- Wakes the bot up
+    volumes:
+      - ./services/market_data:/app # <--- Links your live code
+    working_dir: /app
     environment:
       - KAFKA_BROKER=redpanda:9092
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - POSTGRES_DB=sentient_alpha
       - POSTGRES_USER=admin
-      - ALPACA_KEY=${ALPACA_KEY}      # Added for Strategy 4.0
+      - ALPACA_KEY=${ALPACA_KEY}
       - ALPACA_SECRET=${ALPACA_SECRET}
       - CRYPTOPANIC_KEY=${CRYPTOPANIC_KEY}
       - GROQ_API_KEY=${GROQ_API_KEY}
@@ -93,3 +117,4 @@ services:
 
 volumes:
   timescaledb_data:
+  hf_cache: 

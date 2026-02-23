@@ -1,10 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 langchain
 langchain-community
-langchain-postgres
 langchain-huggingface
+langchain-postgres
+langchain-groq
 sentence-transformers
 pgvector
 psycopg2-binary
 beautifulsoup4
 requests
 python-dotenv
+sec-api
+pdfplumber
