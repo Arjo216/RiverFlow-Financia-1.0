@@ -31,7 +31,7 @@ st.markdown("""
 
 # --- DATABASE ENGINE ---
 DB_PASS = os.getenv("DB_PASSWORD", "secretpassword")
-conn_str = f"postgresql://admin:{DB_PASS}@timescaledb:5432/sentient_alpha"
+conn_str = f"postgresql://admin:{DB_PASS}@sentient_db:5432/sentient_alpha"
 engine = create_engine(conn_str)
 
 # --- DATA GENERATOR (Simulated for real-time visual peak) ---
@@ -114,7 +114,7 @@ with col_right:
                 from langchain_groq import ChatGroq
                 
                 # Format specifically for Langchain's PGVector
-                rag_conn_str = f"postgresql+psycopg2://admin:{DB_PASS}@timescaledb:5432/sentient_alpha"
+                rag_conn_str = f"postgresql+psycopg2://admin:{DB_PASS}@sentient_db:5432/sentient_alpha"
                 
                 # 2. CONNECT TO THE BRAIN
                 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
@@ -214,7 +214,8 @@ if os.path.exists(log_file):
         # Grab the last 15 lines so the UI stays lightning fast
         lines = f.readlines()
         recent_logs = "".join(lines[-15:])
-    
+
+  
     # 2. Display as a black terminal block
     st.sidebar.code(recent_logs, language="bash")
 else:
@@ -228,3 +229,53 @@ st.sidebar.divider()
 
 if st.sidebar.button("RESET DATABASE CACHE"):
     st.sidebar.warning("Resetting Vector Collections...")
+
+
+# ==========================================
+# 🔏 IMMUTABLE AUDIT LEDGER
+# ==========================================
+st.divider()
+st.subheader("🔏 Institutional Audit Ledger")
+st.markdown("Immutable record of all AI-cleared executions, mathematical triggers, and risk management events.")
+
+# Connect to the TimescaleDB Vault
+DB_URL = f"postgresql://admin:{DB_PASS}@sentient_db:5432/sentient_alpha"
+
+try:
+    engine = create_engine(DB_URL)
+    
+    # Fetch the 50 most recent executions
+    query = """
+        SELECT time, symbol, action, price, rsi, macd, sma_200, ai_score, rag_reasoning 
+        FROM execution_audit 
+        ORDER BY time DESC 
+        LIMIT 50
+    """
+    audit_df = pd.read_sql(query, engine)
+    
+    if not audit_df.empty:
+        # Format the timestamp for clean reading
+        audit_df['time'] = pd.to_datetime(audit_df['time']).dt.strftime('%Y-%m-%d %H:%M:%S')
+        
+        # Display as an interactive, full-width dataframe
+        st.dataframe(
+            audit_df,
+            use_container_width=True,
+            hide_index=True,
+            column_config={
+                "time": "Timestamp",
+                "symbol": "Asset",
+                "action": st.column_config.TextColumn("Action"),
+                "price": st.column_config.NumberColumn("Exec. Price", format="$%.2f"),
+                "rsi": st.column_config.NumberColumn("RSI", format="%.1f"),
+                "macd": st.column_config.NumberColumn("MACD", format="%.2f"),
+                "sma_200": st.column_config.NumberColumn("200-SMA", format="$%.2f"),
+                "ai_score": st.column_config.NumberColumn("AI Score", format="%.2f"),
+                "rag_reasoning": "Groq SEC Reasoning"
+            }
+        )
+    else:
+        st.info("Awaiting first execution. The Audit Vault is currently empty.")
+except Exception as e:
+    st.warning(f"Database Error: {e}")
+    st.warning("Database connection initializing... awaiting first table creation.")

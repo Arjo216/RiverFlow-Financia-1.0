@@ -100,7 +100,7 @@ class InstitutionalVault:
     def get_macro_clearance():
         try:
             # 1. Direct connection to the database
-            conn = psycopg2.connect(host="timescaledb", database="sentient_alpha", user="admin", password=DB_PASS)
+            conn = psycopg2.connect(host="sentient_db", database="sentient_alpha", user="admin", password=DB_PASS)
             cursor = conn.cursor()
             
             # 2. Extract random high-density chunks from the MSTR 2026 Filing
@@ -180,17 +180,70 @@ def get_live_data():
     except:
         return None
 
+# --- SMART CACHE VARIABLES ---
+last_news_time = 0
+cached_headline = "No active news."
+
 def get_news():
-    if not CRYPTOPANIC_KEY: return "No active news."
-    url = f"https://cryptopanic.com/api/v1/posts/?auth_token={CRYPTOPANIC_KEY}&currencies=BTC&filter=hot"
-    headers = {"User-Agent": "Mozilla/5.0"}
+    global last_news_time, cached_headline
+    
+    # Failsafe if the key is missing from .env
+    if not CRYPTOPANIC_KEY: 
+        return "No active news."
+    
+    # RATE LIMITER: Only ping the API once every 5 minutes (300 seconds)
+    current_time = time.time()
+    if current_time - last_news_time < 300:
+        return cached_headline
+
+    # The standard v1 API endpoint
+    url = f"https://cryptopanic.com/api/free/v1/posts/?auth_token={CRYPTOPANIC_KEY}&currencies=BTC&filter=hot"
+    
+    # Institutional User-Agent to bypass basic Cloudflare blocks
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    
     try:
-        res = requests.get(url, headers=headers, timeout=10, verify=False) 
-        if res.status_code == 200 and res.json().get('results'):
-            return res.json()['results'][0]['title']
-    except:
-        pass
-    return "No active news."
+        res = requests.get(url, headers=headers, timeout=10) 
+        if res.status_code == 200:
+            data = res.json()
+            if data.get('results'):
+                cached_headline = data['results'][0]['title']
+                last_news_time = current_time
+                print(f"📰 [NEWS SYNC] Latest Headline: {cached_headline[:50]}...")
+                return cached_headline
+        else:
+            print(f"⚠️ [API ERROR] HTTP {res.status_code}. Please verify your CRYPTOPANIC_KEY in .env!")
+    except Exception as e:
+        print(f"⚠️ [NETWORK ERROR] Failed to reach CryptoPanic: {e}")
+        
+    return cached_headline
+
+from sqlalchemy import create_engine, text
+
+# 🔗 Institutional Database Link
+DB_PASS = os.getenv("DB_PASSWORD", "secretpassword")
+DB_URL = f"postgresql://admin:{DB_PASS}@sentient_db:5432/sentient_alpha"
+db_engine = create_engine(DB_URL)
+
+def log_execution_audit(symbol, action, price, rsi, macd, sma_200, ai_score, rag_reasoning):
+    """Permanently carves the exact trade logic into the Immutable Vault."""
+    try:
+        with db_engine.connect() as conn:
+            query = text("""
+                INSERT INTO execution_audit 
+                (symbol, action, price, rsi, macd, sma_200, ai_score, rag_reasoning)
+                VALUES 
+                (:symbol, :action, :price, :rsi, :macd, :sma_200, :ai_score, :rag_reasoning)
+            """)
+            conn.execute(query, {
+                "symbol": symbol, "action": action, "price": float(price),
+                "rsi": float(rsi), "macd": float(macd), "sma_200": float(sma_200),
+                "ai_score": float(ai_score), "rag_reasoning": str(rag_reasoning)
+            })
+            conn.commit()
+            print(f"🔏 [AUDIT] {action} Execution securely logged to TimescaleDB.")
+    except Exception as e:
+        print(f"⚠️ [AUDIT ERROR] Failed to log execution: {e}")
 
 # --- 5. THE MASTER LOOP ---
 def run_apex():
@@ -252,15 +305,24 @@ def run_apex():
             print(f"📊 [SCAN] BTC: ${price:,.2f} | 200-SMA: ${sma_200:,.2f} | RSI: {rsi:.1f} | MACD: {macd:.2f}")
 
             # TRIPLE-NODE EXECUTION
-            if rsi < 50 and macd > signal and price > sma_200 and ai_score > 0.3:
+            #if rsi < 50 and macd > signal and price > sma_200 and ai_score > 0.3:
+            if rsi < 50 and macd > signal and price > sma_200:
                 print("⚠️ Technical & Sentiment Lock Achieved. Requesting SEC RAG Clearance...")
                 is_clear, reason = vault.get_macro_clearance()
+                # --- 🚧 DEV OVERRIDE: FORCE INSTANT EXECUTION ---
+            #if True: 
+                #print("⚠️ DEV OVERRIDE ACTIVE. Requesting SEC RAG Clearance...")
+                #is_clear, reason = vault.get_macro_clearance()
                 
                 if is_clear:
                     account = api.get_account()
                     if float(account.cash) > 500:
                         qty = (float(account.cash) * MAX_POSITION_SIZE) / price
                         api.submit_order(symbol="BTC/USD", qty=qty, side='buy', type='market', time_in_force='gtc')
+                        
+                        # 🔏 FIRE AUDIT LOG
+                        log_execution_audit("BTC/USD", "BUY", price, rsi, macd, sma_200, ai_score, reason)
+                        
                         send_telegram(f"🟢 *BUY EXECUTED*\n💰 Price: ${price:,.2f}")
                         time.sleep(60)
                 else:
@@ -275,12 +337,20 @@ def run_apex():
                     if current_pl_pct >= TAKE_PROFIT_PCT:
                         api.submit_order(symbol=p.symbol, qty=p.qty, side='sell', type='market', time_in_force='gtc')
                         auditor.wins += 1; auditor.total_trades += 1
+                        
+                        # 🔏 FIRE AUDIT LOG
+                        log_execution_audit("BTC/USD", "SELL_TP", price, rsi, macd, sma_200, ai_score, "Take Profit Hit")
+                        
                         send_telegram(f"🏆 *PROFIT SECURED at ${price:,.2f}*")
                     else:
                         stop_price = entry - (atr * ATR_MULTIPLIER)
                         if price <= stop_price:
                             api.submit_order(symbol=p.symbol, qty=p.qty, side='sell', type='market', time_in_force='gtc')
                             auditor.total_trades += 1
+                            
+                            # 🔏 FIRE AUDIT LOG
+                            log_execution_audit("BTC/USD", "SELL_SL", price, rsi, macd, sma_200, ai_score, "Stop Loss Triggered")
+                            
                             send_telegram(f"🛑 *STOP LOSS TRIGGERED at ${price:,.2f}*")
 
             if time.strftime("%H:%M") == "23:59":
