@@ -17,7 +17,7 @@ load_dotenv()
 # --- ARCHITECTURE SETUP ---
 DB_PASS = os.getenv("DB_PASSWORD", "secretpassword")
 # Formatted specifically for PGVector and psycopg2
-CONNECTION_STRING = f"postgresql+psycopg2://admin:{DB_PASS}@timescaledb:5432/sentient_alpha"
+CONNECTION_STRING = f"postgresql+psycopg2://admin:{DB_PASS}@sentient_db:5432/sentient_alpha"
 COLLECTION_NAME = "institutional_research"
 
 print("💠 RIVERFLOW APEX: SEC RAG INGESTOR ONLINE")

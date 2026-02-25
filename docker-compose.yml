@@ -20,15 +20,16 @@ services:
 
   edgar_processor:
     build: ./services/edgar_processor
-    container_name: sentient_analyst
+    container_name: sentient_analyst  # <--- This is your heavy AI bot!
+    working_dir: /app                 # <--- Added to ensure scripts run from the right place
     env_file: .env
     environment:
       - POSTGRES_PASSWORD=${DB_PASSWORD}
       - PYTHONUNBUFFERED=1
       - HF_TOKEN=${HUGGINGFACE_TOKEN}
     volumes:
-      - ./services/market_data:/app
-      - hf_cache:/root/.cache/huggingface # Persistent storage for AI models
+      - ./services/edgar_processor:/app # <--- FIXED! Now maps to the correct folder
+      - hf_cache:/root/.cache/huggingface 
     depends_on:
       - timescaledb
 
@@ -39,7 +40,6 @@ services:
       - ./services/market_data:/app
     working_dir: /app
     env_file: .env
-    # The "Peak Version" setup: Installing visual assets and launching the Command Center
     command: >
       sh -c "pip install --extra-index-url https://download.pytorch.org/whl/cpu torch && 
              pip install streamlit pandas plotly sqlalchemy psycopg2-binary python-dotenv langchain langchain_community langchain-groq langchain-huggingface langchain-postgres sentence-transformers pgvector && 
@@ -94,9 +94,9 @@ services:
   market_writer:
     build: ./services/market_data
     container_name: sentient_writer
-    command: python strategy.py     # <--- Wakes the bot up
+    command: python strategy.py     
     volumes:
-      - ./services/market_data:/app # <--- Links your live code
+      - ./services/market_data:/app 
     working_dir: /app
     environment:
       - KAFKA_BROKER=redpanda:9092
@@ -117,4 +117,4 @@ services:
 
 volumes:
   timescaledb_data:
-  hf_cache: 
+  hf_cache:

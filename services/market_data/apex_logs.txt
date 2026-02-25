@@ -1192,3 +1192,1194 @@
 📊 [SCAN] BTC: $63,958.99 | 200-SMA: $64,357.48 | RSI: 41.1 | MACD: -70.06
 ⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
 📊 [SCAN] BTC: $63,967.99 | 200-SMA: $64,357.53 | RSI: 42.4 | MACD: -69.34
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 502. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,144.50 | 200-SMA: $65,174.48 | RSI: 60.2 | MACD: 38.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,135.61 | 200-SMA: $65,172.91 | RSI: 58.7 | MACD: 36.81
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,128.24 | 200-SMA: $65,172.87 | RSI: 57.5 | MACD: 36.22
+⚠️ [API ERROR] HTTP 502. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,138.84 | 200-SMA: $65,172.93 | RSI: 59.1 | MACD: 37.06
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,149.89 | 200-SMA: $65,172.98 | RSI: 60.4 | MACD: 37.95
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,138.85 | 200-SMA: $65,171.63 | RSI: 58.5 | MACD: 36.54
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,106.34 | 200-SMA: $65,171.47 | RSI: 53.4 | MACD: 33.94
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,087.34 | 200-SMA: $65,171.37 | RSI: 50.8 | MACD: 32.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,066.90 | 200-SMA: $65,171.27 | RSI: 48.3 | MACD: 30.80
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,068.12 | 200-SMA: $65,169.64 | RSI: 48.6 | MACD: 24.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,020.48 | 200-SMA: $65,169.40 | RSI: 43.1 | MACD: 20.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,035.75 | 200-SMA: $65,169.48 | RSI: 44.7 | MACD: 21.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,030.50 | 200-SMA: $65,169.45 | RSI: 44.2 | MACD: 21.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,050.62 | 200-SMA: $65,168.01 | RSI: 46.6 | MACD: 16.56
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,044.15 | 200-SMA: $65,167.98 | RSI: 45.7 | MACD: 16.04
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,040.85 | 200-SMA: $65,167.97 | RSI: 45.3 | MACD: 15.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,039.02 | 200-SMA: $65,166.25 | RSI: 45.0 | MACD: 10.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,039.01 | 200-SMA: $65,166.25 | RSI: 45.0 | MACD: 10.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,055.67 | 200-SMA: $65,166.33 | RSI: 47.5 | MACD: 11.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,049.50 | 200-SMA: $65,166.30 | RSI: 46.6 | MACD: 11.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,044.01 | 200-SMA: $65,164.11 | RSI: 45.9 | MACD: 7.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,032.22 | 200-SMA: $65,164.05 | RSI: 44.4 | MACD: 6.58
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,023.19 | 200-SMA: $65,164.01 | RSI: 43.3 | MACD: 5.86
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.88 | 200-SMA: $65,164.01 | RSI: 43.3 | MACD: 5.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,048.78 | 200-SMA: $65,161.59 | RSI: 47.2 | MACD: 3.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,042.38 | 200-SMA: $65,161.55 | RSI: 46.3 | MACD: 2.71
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.88 | 200-SMA: $65,161.46 | RSI: 43.3 | MACD: 1.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,922.50 | 200-SMA: $65,160.95 | RSI: 33.5 | MACD: -6.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,956.67 | 200-SMA: $65,158.06 | RSI: 38.2 | MACD: -13.62
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,940.45 | 200-SMA: $65,157.98 | RSI: 35.8 | MACD: -14.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,945.61 | 200-SMA: $65,158.01 | RSI: 36.6 | MACD: -14.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,944.19 | 200-SMA: $65,154.83 | RSI: 37.0 | MACD: -20.20
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,968.03 | 200-SMA: $65,154.95 | RSI: 39.9 | MACD: -18.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,954.16 | 200-SMA: $65,154.88 | RSI: 37.9 | MACD: -19.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,950.16 | 200-SMA: $65,154.86 | RSI: 37.6 | MACD: -19.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,942.52 | 200-SMA: $65,151.61 | RSI: 36.8 | MACD: -24.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,951.04 | 200-SMA: $65,151.65 | RSI: 37.7 | MACD: -24.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,918.05 | 200-SMA: $65,151.49 | RSI: 34.6 | MACD: -26.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,891.17 | 200-SMA: $65,151.35 | RSI: 32.5 | MACD: -28.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,898.22 | 200-SMA: $65,147.92 | RSI: 34.4 | MACD: -35.81
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,906.32 | 200-SMA: $65,147.96 | RSI: 35.6 | MACD: -35.16
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,915.80 | 200-SMA: $65,148.00 | RSI: 37.0 | MACD: -34.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,944.66 | 200-SMA: $65,148.15 | RSI: 40.8 | MACD: -32.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,930.28 | 200-SMA: $65,145.14 | RSI: 39.5 | MACD: -34.80
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,965.66 | 200-SMA: $65,145.31 | RSI: 43.4 | MACD: -31.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,956.40 | 200-SMA: $65,145.27 | RSI: 42.3 | MACD: -32.72
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,956.39 | 200-SMA: $65,142.30 | RSI: 42.3 | MACD: -32.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,969.88 | 200-SMA: $65,142.37 | RSI: 44.1 | MACD: -31.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,976.00 | 200-SMA: $65,142.40 | RSI: 44.9 | MACD: -31.26
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,975.93 | 200-SMA: $65,142.40 | RSI: 44.8 | MACD: -31.27
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,966.63 | 200-SMA: $65,139.40 | RSI: 43.7 | MACD: -31.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,950.00 | 200-SMA: $65,139.32 | RSI: 41.7 | MACD: -32.90
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,964.29 | 200-SMA: $65,139.39 | RSI: 43.4 | MACD: -31.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,964.31 | 200-SMA: $65,139.39 | RSI: 43.4 | MACD: -31.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,953.11 | 200-SMA: $65,136.34 | RSI: 42.1 | MACD: -31.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,956.84 | 200-SMA: $65,136.36 | RSI: 42.6 | MACD: -31.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,953.43 | 200-SMA: $65,136.34 | RSI: 42.2 | MACD: -31.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,950.60 | 200-SMA: $65,136.33 | RSI: 41.9 | MACD: -31.80
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,944.17 | 200-SMA: $65,133.10 | RSI: 41.1 | MACD: -31.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,953.48 | 200-SMA: $65,133.15 | RSI: 42.3 | MACD: -31.24
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,972.19 | 200-SMA: $65,133.24 | RSI: 45.2 | MACD: -29.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,972.18 | 200-SMA: $65,130.09 | RSI: 45.2 | MACD: -27.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,994.69 | 200-SMA: $65,130.21 | RSI: 48.5 | MACD: -26.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,985.59 | 200-SMA: $65,130.16 | RSI: 47.2 | MACD: -26.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,992.91 | 200-SMA: $65,130.20 | RSI: 48.2 | MACD: -26.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,991.02 | 200-SMA: $65,127.09 | RSI: 48.0 | MACD: -23.54
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,989.10 | 200-SMA: $65,127.08 | RSI: 47.7 | MACD: -23.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,989.40 | 200-SMA: $65,127.08 | RSI: 47.8 | MACD: -23.67
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,974.62 | 200-SMA: $65,127.01 | RSI: 45.8 | MACD: -24.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,974.62 | 200-SMA: $65,123.83 | RSI: 45.8 | MACD: -23.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,975.87 | 200-SMA: $65,123.84 | RSI: 46.0 | MACD: -23.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,013.94 | 200-SMA: $65,124.03 | RSI: 51.5 | MACD: -20.05
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,035.28 | 200-SMA: $65,124.14 | RSI: 54.2 | MACD: -18.34
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,017.86 | 200-SMA: $65,121.28 | RSI: 51.7 | MACD: -14.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,023.98 | 200-SMA: $65,121.31 | RSI: 52.6 | MACD: -14.03
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,021.56 | 200-SMA: $65,121.30 | RSI: 52.2 | MACD: -14.23
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.80 | 200-SMA: $65,118.48 | RSI: 52.4 | MACD: -10.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,037.45 | 200-SMA: $65,118.56 | RSI: 54.3 | MACD: -9.40
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,025.59 | 200-SMA: $65,118.50 | RSI: 52.8 | MACD: -10.35
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,018.27 | 200-SMA: $65,118.46 | RSI: 51.7 | MACD: -10.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,024.00 | 200-SMA: $65,115.59 | RSI: 52.4 | MACD: -7.10
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,003.95 | 200-SMA: $65,115.49 | RSI: 49.4 | MACD: -8.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,003.95 | 200-SMA: $65,115.49 | RSI: 49.4 | MACD: -8.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,004.88 | 200-SMA: $65,115.50 | RSI: 49.6 | MACD: -8.62
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,009.00 | 200-SMA: $65,112.74 | RSI: 50.2 | MACD: -6.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,003.17 | 200-SMA: $65,112.71 | RSI: 49.3 | MACD: -7.35
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,021.63 | 200-SMA: $65,112.80 | RSI: 52.0 | MACD: -5.88
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,016.11 | 200-SMA: $65,112.77 | RSI: 51.2 | MACD: -6.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.58 | 200-SMA: $65,110.07 | RSI: 52.2 | MACD: -4.19
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,045.56 | 200-SMA: $65,110.18 | RSI: 55.5 | MACD: -2.35
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,017.42 | 200-SMA: $65,110.04 | RSI: 51.4 | MACD: -4.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,036.60 | 200-SMA: $65,107.47 | RSI: 54.3 | MACD: -0.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,026.00 | 200-SMA: $65,107.42 | RSI: 52.4 | MACD: -1.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,030.10 | 200-SMA: $65,107.44 | RSI: 53.1 | MACD: -1.01
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,018.80 | 200-SMA: $65,107.38 | RSI: 51.3 | MACD: -1.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.13 | 200-SMA: $65,104.42 | RSI: 51.8 | MACD: -0.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,027.13 | 200-SMA: $65,104.44 | RSI: 52.6 | MACD: -0.44
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,033.59 | 200-SMA: $65,104.48 | RSI: 53.5 | MACD: 0.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,028.31 | 200-SMA: $65,104.45 | RSI: 52.8 | MACD: -0.35
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,028.31 | 200-SMA: $65,101.40 | RSI: 52.8 | MACD: 1.01
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,064.93 | 200-SMA: $65,101.59 | RSI: 58.0 | MACD: 3.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,030.88 | 200-SMA: $65,101.42 | RSI: 53.2 | MACD: 1.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,039.72 | 200-SMA: $65,101.46 | RSI: 54.5 | MACD: 1.92
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,029.57 | 200-SMA: $65,098.53 | RSI: 52.6 | MACD: 2.87
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,014.00 | 200-SMA: $65,098.45 | RSI: 50.0 | MACD: 1.63
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,020.32 | 200-SMA: $65,098.48 | RSI: 51.0 | MACD: 2.13
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,020.31 | 200-SMA: $65,098.48 | RSI: 51.0 | MACD: 2.13
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,011.53 | 200-SMA: $65,095.47 | RSI: 49.5 | MACD: 1.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,972.20 | 200-SMA: $65,095.27 | RSI: 43.5 | MACD: -1.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,999.99 | 200-SMA: $65,095.41 | RSI: 47.6 | MACD: 0.65
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,002.59 | 200-SMA: $65,092.30 | RSI: 48.0 | MACD: -0.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,972.21 | 200-SMA: $65,092.15 | RSI: 43.2 | MACD: -2.58
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,975.18 | 200-SMA: $65,092.17 | RSI: 43.6 | MACD: -2.34
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,974.36 | 200-SMA: $65,092.16 | RSI: 43.5 | MACD: -2.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,011.42 | 200-SMA: $65,089.16 | RSI: 49.7 | MACD: -0.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,999.73 | 200-SMA: $65,089.10 | RSI: 47.5 | MACD: -1.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,975.24 | 200-SMA: $65,088.98 | RSI: 43.4 | MACD: -3.21
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,993.67 | 200-SMA: $65,089.07 | RSI: 46.4 | MACD: -1.74
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,023.89 | 200-SMA: $65,086.07 | RSI: 52.2 | MACD: -0.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,031.92 | 200-SMA: $65,086.11 | RSI: 53.6 | MACD: 0.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,031.91 | 200-SMA: $65,086.11 | RSI: 53.6 | MACD: 0.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,048.54 | 200-SMA: $65,086.20 | RSI: 56.2 | MACD: 1.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,064.93 | 200-SMA: $65,083.46 | RSI: 58.6 | MACD: 5.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,034.55 | 200-SMA: $65,083.30 | RSI: 53.5 | MACD: 2.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,077.31 | 200-SMA: $65,083.52 | RSI: 60.3 | MACD: 6.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,046.98 | 200-SMA: $65,080.87 | RSI: 55.2 | MACD: 6.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,052.03 | 200-SMA: $65,080.90 | RSI: 56.2 | MACD: 6.97
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,068.58 | 200-SMA: $65,080.98 | RSI: 59.2 | MACD: 8.29
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,052.36 | 200-SMA: $65,080.90 | RSI: 56.3 | MACD: 6.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,027.95 | 200-SMA: $65,078.38 | RSI: 51.5 | MACD: 6.17
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,995.74 | 200-SMA: $65,078.21 | RSI: 46.2 | MACD: 3.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,033.26 | 200-SMA: $65,078.40 | RSI: 52.5 | MACD: 6.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,035.30 | 200-SMA: $65,078.41 | RSI: 52.9 | MACD: 6.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,003.45 | 200-SMA: $65,075.64 | RSI: 47.1 | MACD: 3.94
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,029.67 | 200-SMA: $65,075.77 | RSI: 51.8 | MACD: 6.03
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,024.96 | 200-SMA: $65,075.75 | RSI: 50.9 | MACD: 5.65
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,031.55 | 200-SMA: $65,075.78 | RSI: 52.1 | MACD: 6.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,021.99 | 200-SMA: $65,073.45 | RSI: 50.2 | MACD: 5.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,004.70 | 200-SMA: $65,073.36 | RSI: 47.0 | MACD: 3.92
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,018.69 | 200-SMA: $65,073.43 | RSI: 49.6 | MACD: 5.04
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,004.76 | 200-SMA: $65,070.98 | RSI: 46.9 | MACD: 2.59
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,011.03 | 200-SMA: $65,071.01 | RSI: 48.1 | MACD: 3.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,010.94 | 200-SMA: $65,071.01 | RSI: 48.1 | MACD: 3.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,013.61 | 200-SMA: $65,071.03 | RSI: 48.6 | MACD: 3.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,015.59 | 200-SMA: $65,068.85 | RSI: 49.0 | MACD: 2.94
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,004.93 | 200-SMA: $65,068.80 | RSI: 46.9 | MACD: 2.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $64,991.56 | 200-SMA: $65,068.73 | RSI: 44.6 | MACD: 1.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,009.84 | 200-SMA: $65,068.82 | RSI: 47.9 | MACD: 2.48
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,003.33 | 200-SMA: $65,066.50 | RSI: 46.5 | MACD: 0.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,012.23 | 200-SMA: $65,066.55 | RSI: 48.4 | MACD: 1.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,017.95 | 200-SMA: $65,066.57 | RSI: 49.6 | MACD: 1.95
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,021.90 | 200-SMA: $65,066.59 | RSI: 50.4 | MACD: 2.27
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,013.20 | 200-SMA: $65,064.35 | RSI: 48.6 | MACD: 1.38
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,021.90 | 200-SMA: $65,064.39 | RSI: 50.4 | MACD: 2.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,022.13 | 200-SMA: $65,064.40 | RSI: 50.5 | MACD: 2.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,032.96 | 200-SMA: $65,062.48 | RSI: 52.8 | MACD: 3.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,031.35 | 200-SMA: $65,062.48 | RSI: 52.4 | MACD: 3.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,031.35 | 200-SMA: $65,062.48 | RSI: 52.4 | MACD: 3.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,045.59 | 200-SMA: $65,062.55 | RSI: 55.3 | MACD: 4.47
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,039.80 | 200-SMA: $65,060.51 | RSI: 53.6 | MACD: 5.53
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,023.43 | 200-SMA: $65,060.43 | RSI: 50.1 | MACD: 4.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,029.84 | 200-SMA: $65,060.46 | RSI: 51.4 | MACD: 4.74
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,030.29 | 200-SMA: $65,060.46 | RSI: 51.5 | MACD: 4.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,012.00 | 200-SMA: $65,058.35 | RSI: 47.6 | MACD: 3.10
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,048.59 | 200-SMA: $65,058.53 | RSI: 55.1 | MACD: 6.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,069.99 | 200-SMA: $65,058.64 | RSI: 58.8 | MACD: 7.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,068.26 | 200-SMA: $65,058.63 | RSI: 58.5 | MACD: 7.59
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,098.43 | 200-SMA: $65,056.87 | RSI: 63.0 | MACD: 12.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,112.24 | 200-SMA: $65,056.93 | RSI: 64.8 | MACD: 13.40
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,128.93 | 200-SMA: $65,057.02 | RSI: 66.7 | MACD: 14.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,102.54 | 200-SMA: $65,055.14 | RSI: 62.9 | MACD: 16.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,103.50 | 200-SMA: $65,055.14 | RSI: 63.2 | MACD: 16.67
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,092.13 | 200-SMA: $65,055.09 | RSI: 60.6 | MACD: 15.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,089.15 | 200-SMA: $65,055.07 | RSI: 60.0 | MACD: 15.53
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,110.63 | 200-SMA: $65,053.31 | RSI: 63.4 | MACD: 19.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,088.02 | 200-SMA: $65,053.20 | RSI: 59.6 | MACD: 17.53
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,109.64 | 200-SMA: $65,053.30 | RSI: 63.3 | MACD: 19.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,128.93 | 200-SMA: $65,053.40 | RSI: 65.7 | MACD: 20.79
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,133.46 | 200-SMA: $65,051.98 | RSI: 66.3 | MACD: 24.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,143.66 | 200-SMA: $65,052.04 | RSI: 67.5 | MACD: 25.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,146.93 | 200-SMA: $65,052.05 | RSI: 67.9 | MACD: 25.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,144.12 | 200-SMA: $65,052.04 | RSI: 67.5 | MACD: 25.54
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,174.83 | 200-SMA: $65,050.88 | RSI: 70.8 | MACD: 31.87
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,194.35 | 200-SMA: $65,050.98 | RSI: 72.7 | MACD: 33.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,223.23 | 200-SMA: $65,051.12 | RSI: 74.9 | MACD: 35.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,223.23 | 200-SMA: $65,050.06 | RSI: 74.9 | MACD: 42.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,206.82 | 200-SMA: $65,049.98 | RSI: 71.3 | MACD: 41.54
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,220.00 | 200-SMA: $65,050.04 | RSI: 74.2 | MACD: 42.59
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,240.86 | 200-SMA: $65,050.15 | RSI: 76.3 | MACD: 44.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,247.10 | 200-SMA: $65,049.07 | RSI: 76.7 | MACD: 50.92
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,226.08 | 200-SMA: $65,048.97 | RSI: 72.8 | MACD: 49.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,246.83 | 200-SMA: $65,049.07 | RSI: 76.7 | MACD: 50.90
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,229.96 | 200-SMA: $65,048.99 | RSI: 73.7 | MACD: 49.56
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,230.37 | 200-SMA: $65,047.63 | RSI: 73.7 | MACD: 53.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,195.52 | 200-SMA: $65,047.46 | RSI: 66.1 | MACD: 50.40
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,204.23 | 200-SMA: $65,047.50 | RSI: 67.9 | MACD: 51.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,215.92 | 200-SMA: $65,047.56 | RSI: 70.4 | MACD: 52.03
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,209.01 | 200-SMA: $65,046.24 | RSI: 68.8 | MACD: 52.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,210.16 | 200-SMA: $65,046.25 | RSI: 69.0 | MACD: 53.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,215.64 | 200-SMA: $65,046.28 | RSI: 70.3 | MACD: 53.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,223.23 | 200-SMA: $65,045.06 | RSI: 71.4 | MACD: 54.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,202.18 | 200-SMA: $65,044.96 | RSI: 66.3 | MACD: 53.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,200.01 | 200-SMA: $65,044.95 | RSI: 65.8 | MACD: 53.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,202.31 | 200-SMA: $65,044.96 | RSI: 66.3 | MACD: 53.26
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,190.53 | 200-SMA: $65,043.48 | RSI: 63.6 | MACD: 50.94
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,182.67 | 200-SMA: $65,043.44 | RSI: 61.9 | MACD: 50.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,187.31 | 200-SMA: $65,043.47 | RSI: 62.9 | MACD: 50.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,213.11 | 200-SMA: $65,043.60 | RSI: 67.4 | MACD: 52.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,206.67 | 200-SMA: $65,042.28 | RSI: 66.6 | MACD: 50.97
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,208.26 | 200-SMA: $65,042.28 | RSI: 66.8 | MACD: 51.10
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,185.26 | 200-SMA: $65,042.17 | RSI: 61.6 | MACD: 49.27
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,202.46 | 200-SMA: $65,042.25 | RSI: 65.6 | MACD: 50.64
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,189.22 | 200-SMA: $65,041.04 | RSI: 62.4 | MACD: 47.13
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,207.99 | 200-SMA: $65,041.13 | RSI: 65.3 | MACD: 48.63
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,220.28 | 200-SMA: $65,041.20 | RSI: 66.8 | MACD: 49.61
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,223.97 | 200-SMA: $65,040.32 | RSI: 67.2 | MACD: 49.39
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,241.58 | 200-SMA: $65,040.41 | RSI: 69.2 | MACD: 50.80
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,208.44 | 200-SMA: $65,040.24 | RSI: 63.5 | MACD: 48.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,212.53 | 200-SMA: $65,040.26 | RSI: 64.5 | MACD: 48.48
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,234.85 | 200-SMA: $65,039.58 | RSI: 68.5 | MACD: 49.97
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,234.85 | 200-SMA: $65,039.58 | RSI: 68.5 | MACD: 49.97
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,222.97 | 200-SMA: $65,039.52 | RSI: 65.5 | MACD: 49.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,225.62 | 200-SMA: $65,039.54 | RSI: 66.1 | MACD: 49.23
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,230.04 | 200-SMA: $65,038.83 | RSI: 66.0 | MACD: 47.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,239.94 | 200-SMA: $65,038.88 | RSI: 67.2 | MACD: 48.61
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,273.51 | 200-SMA: $65,039.04 | RSI: 70.8 | MACD: 51.29
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,291.08 | 200-SMA: $65,039.13 | RSI: 72.3 | MACD: 52.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,282.78 | 200-SMA: $65,038.83 | RSI: 70.8 | MACD: 54.36
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,289.36 | 200-SMA: $65,038.87 | RSI: 72.2 | MACD: 54.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,302.45 | 200-SMA: $65,038.93 | RSI: 73.4 | MACD: 55.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,318.88 | 200-SMA: $65,039.01 | RSI: 74.7 | MACD: 57.24
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,280.65 | 200-SMA: $65,038.74 | RSI: 66.4 | MACD: 57.29
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,280.65 | 200-SMA: $65,038.74 | RSI: 66.4 | MACD: 57.29
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,279.07 | 200-SMA: $65,038.74 | RSI: 66.1 | MACD: 57.16
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,276.17 | 200-SMA: $65,038.40 | RSI: 65.5 | MACD: 56.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,297.84 | 200-SMA: $65,038.51 | RSI: 68.6 | MACD: 58.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,282.75 | 200-SMA: $65,038.43 | RSI: 66.8 | MACD: 57.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,333.00 | 200-SMA: $65,038.68 | RSI: 71.6 | MACD: 61.13
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,367.82 | 200-SMA: $65,038.87 | RSI: 74.2 | MACD: 67.10
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,386.66 | 200-SMA: $65,038.97 | RSI: 75.4 | MACD: 68.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,396.34 | 200-SMA: $65,039.02 | RSI: 76.0 | MACD: 69.37
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,393.89 | 200-SMA: $65,039.00 | RSI: 75.8 | MACD: 69.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,388.00 | 200-SMA: $65,039.28 | RSI: 72.4 | MACD: 74.16
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,458.35 | 200-SMA: $65,039.64 | RSI: 79.4 | MACD: 79.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,454.53 | 200-SMA: $65,039.62 | RSI: 79.2 | MACD: 79.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,460.01 | 200-SMA: $65,039.64 | RSI: 79.4 | MACD: 79.90
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,399.92 | 200-SMA: $65,040.04 | RSI: 69.6 | MACD: 81.14
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,410.94 | 200-SMA: $65,040.10 | RSI: 71.4 | MACD: 82.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,413.32 | 200-SMA: $65,040.11 | RSI: 71.7 | MACD: 82.21
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,415.51 | 200-SMA: $65,040.74 | RSI: 72.1 | MACD: 83.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,400.65 | 200-SMA: $65,040.67 | RSI: 69.5 | MACD: 82.63
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,402.49 | 200-SMA: $65,040.68 | RSI: 69.9 | MACD: 82.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,396.46 | 200-SMA: $65,040.65 | RSI: 68.9 | MACD: 82.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,415.22 | 200-SMA: $65,041.44 | RSI: 71.3 | MACD: 83.36
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,390.07 | 200-SMA: $65,041.31 | RSI: 67.6 | MACD: 81.36
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,394.39 | 200-SMA: $65,041.33 | RSI: 68.4 | MACD: 81.70
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,420.29 | 200-SMA: $65,041.46 | RSI: 71.6 | MACD: 83.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,422.37 | 200-SMA: $65,042.43 | RSI: 71.8 | MACD: 83.45
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,404.44 | 200-SMA: $65,042.34 | RSI: 68.7 | MACD: 82.02
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,450.00 | 200-SMA: $65,042.56 | RSI: 73.7 | MACD: 85.65
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,464.19 | 200-SMA: $65,042.63 | RSI: 74.6 | MACD: 86.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,433.27 | 200-SMA: $65,043.66 | RSI: 69.1 | MACD: 85.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,420.25 | 200-SMA: $65,043.59 | RSI: 67.0 | MACD: 84.66
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,420.25 | 200-SMA: $65,043.59 | RSI: 67.0 | MACD: 84.66
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,424.31 | 200-SMA: $65,044.74 | RSI: 67.6 | MACD: 82.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,422.01 | 200-SMA: $65,044.73 | RSI: 67.2 | MACD: 82.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,430.05 | 200-SMA: $65,044.77 | RSI: 68.1 | MACD: 83.05
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,423.38 | 200-SMA: $65,044.74 | RSI: 67.5 | MACD: 82.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,417.98 | 200-SMA: $65,045.72 | RSI: 66.5 | MACD: 79.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,400.01 | 200-SMA: $65,045.63 | RSI: 63.4 | MACD: 77.64
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,412.30 | 200-SMA: $65,045.69 | RSI: 65.5 | MACD: 78.62
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,411.76 | 200-SMA: $65,045.69 | RSI: 65.4 | MACD: 78.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,408.58 | 200-SMA: $65,046.53 | RSI: 64.8 | MACD: 74.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,390.08 | 200-SMA: $65,046.44 | RSI: 61.6 | MACD: 73.01
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,386.36 | 200-SMA: $65,046.42 | RSI: 61.0 | MACD: 72.72
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,405.19 | 200-SMA: $65,046.51 | RSI: 64.2 | MACD: 74.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,420.76 | 200-SMA: $65,047.54 | RSI: 65.8 | MACD: 71.20
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,445.58 | 200-SMA: $65,047.66 | RSI: 68.1 | MACD: 73.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,445.71 | 200-SMA: $65,047.66 | RSI: 68.1 | MACD: 73.19
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,454.62 | 200-SMA: $65,048.88 | RSI: 68.9 | MACD: 72.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,468.50 | 200-SMA: $65,048.95 | RSI: 70.0 | MACD: 73.92
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,479.99 | 200-SMA: $65,049.01 | RSI: 70.9 | MACD: 74.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,483.53 | 200-SMA: $65,049.02 | RSI: 71.2 | MACD: 75.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,456.00 | 200-SMA: $65,050.32 | RSI: 66.1 | MACD: 73.02
+⚠️ [API ERROR] HTTP 502. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,438.19 | 200-SMA: $65,050.23 | RSI: 63.2 | MACD: 71.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,449.28 | 200-SMA: $65,050.28 | RSI: 65.0 | MACD: 72.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,440.28 | 200-SMA: $65,050.24 | RSI: 63.5 | MACD: 71.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,439.99 | 200-SMA: $65,051.32 | RSI: 63.0 | MACD: 67.79
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,454.13 | 200-SMA: $65,051.39 | RSI: 64.3 | MACD: 68.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.82 | 200-SMA: $65,051.45 | RSI: 65.3 | MACD: 69.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,447.28 | 200-SMA: $65,051.36 | RSI: 63.7 | MACD: 68.37
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,453.20 | 200-SMA: $65,052.90 | RSI: 64.3 | MACD: 65.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,443.99 | 200-SMA: $65,052.86 | RSI: 63.4 | MACD: 64.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,446.65 | 200-SMA: $65,052.87 | RSI: 63.6 | MACD: 65.04
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,454.40 | 200-SMA: $65,054.77 | RSI: 64.4 | MACD: 63.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,440.06 | 200-SMA: $65,054.70 | RSI: 61.8 | MACD: 62.01
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,413.45 | 200-SMA: $65,054.57 | RSI: 57.6 | MACD: 59.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.35 | 200-SMA: $65,054.81 | RSI: 65.1 | MACD: 63.71
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.95 | 200-SMA: $65,056.92 | RSI: 65.2 | MACD: 61.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.95 | 200-SMA: $65,056.92 | RSI: 65.2 | MACD: 61.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,503.65 | 200-SMA: $65,057.13 | RSI: 69.1 | MACD: 64.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,467.72 | 200-SMA: $65,056.95 | RSI: 65.8 | MACD: 61.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,499.83 | 200-SMA: $65,059.29 | RSI: 69.0 | MACD: 62.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,567.81 | 200-SMA: $65,059.63 | RSI: 74.1 | MACD: 67.68
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.31 | 200-SMA: $65,059.52 | RSI: 72.6 | MACD: 65.88
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,586.19 | 200-SMA: $65,059.72 | RSI: 75.2 | MACD: 69.14
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,572.31 | 200-SMA: $65,062.78 | RSI: 72.6 | MACD: 73.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,542.74 | 200-SMA: $65,062.63 | RSI: 67.8 | MACD: 70.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.75 | 200-SMA: $65,062.64 | RSI: 68.2 | MACD: 70.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,572.50 | 200-SMA: $65,062.78 | RSI: 72.6 | MACD: 73.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.04 | 200-SMA: $65,065.35 | RSI: 67.0 | MACD: 72.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,524.16 | 200-SMA: $65,065.27 | RSI: 64.5 | MACD: 71.51
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,529.01 | 200-SMA: $65,065.30 | RSI: 65.3 | MACD: 71.90
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,496.89 | 200-SMA: $65,068.37 | RSI: 60.6 | MACD: 65.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,498.25 | 200-SMA: $65,068.38 | RSI: 60.7 | MACD: 65.54
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,494.47 | 200-SMA: $65,068.36 | RSI: 60.4 | MACD: 65.24
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,505.15 | 200-SMA: $65,068.41 | RSI: 61.3 | MACD: 66.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,511.99 | 200-SMA: $65,071.37 | RSI: 62.0 | MACD: 63.62
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,546.04 | 200-SMA: $65,071.54 | RSI: 64.9 | MACD: 66.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,533.44 | 200-SMA: $65,071.48 | RSI: 63.8 | MACD: 65.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,527.31 | 200-SMA: $65,071.45 | RSI: 63.3 | MACD: 64.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,507.29 | 200-SMA: $65,074.46 | RSI: 60.3 | MACD: 61.39
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,519.52 | 200-SMA: $65,074.52 | RSI: 62.1 | MACD: 62.37
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,520.49 | 200-SMA: $65,074.52 | RSI: 62.3 | MACD: 62.45
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,530.49 | 200-SMA: $65,074.57 | RSI: 63.6 | MACD: 63.24
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,514.00 | 200-SMA: $65,078.02 | RSI: 60.9 | MACD: 59.96
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,514.01 | 200-SMA: $65,078.02 | RSI: 60.9 | MACD: 59.96
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,511.10 | 200-SMA: $65,078.01 | RSI: 60.5 | MACD: 59.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,496.92 | 200-SMA: $65,081.49 | RSI: 58.4 | MACD: 54.29
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,519.52 | 200-SMA: $65,081.60 | RSI: 60.7 | MACD: 56.09
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,500.00 | 200-SMA: $65,081.51 | RSI: 58.7 | MACD: 54.53
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,486.26 | 200-SMA: $65,081.44 | RSI: 56.8 | MACD: 53.44
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,485.28 | 200-SMA: $65,084.85 | RSI: 56.6 | MACD: 48.51
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,493.32 | 200-SMA: $65,084.89 | RSI: 57.5 | MACD: 49.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,489.42 | 200-SMA: $65,084.87 | RSI: 57.1 | MACD: 48.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,495.52 | 200-SMA: $65,084.90 | RSI: 57.8 | MACD: 49.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.42 | 200-SMA: $65,088.53 | RSI: 62.8 | MACD: 51.48
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.98 | 200-SMA: $65,088.53 | RSI: 62.9 | MACD: 51.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.84 | 200-SMA: $65,088.51 | RSI: 62.4 | MACD: 51.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,534.01 | 200-SMA: $65,088.47 | RSI: 61.7 | MACD: 50.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,581.29 | 200-SMA: $65,092.20 | RSI: 66.2 | MACD: 53.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,595.99 | 200-SMA: $65,092.27 | RSI: 67.4 | MACD: 54.32
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,606.43 | 200-SMA: $65,092.32 | RSI: 68.1 | MACD: 55.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,583.10 | 200-SMA: $65,095.90 | RSI: 65.6 | MACD: 55.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,580.85 | 200-SMA: $65,095.89 | RSI: 65.3 | MACD: 54.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,547.01 | 200-SMA: $65,095.72 | RSI: 60.1 | MACD: 52.23
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,515.82 | 200-SMA: $65,095.56 | RSI: 56.1 | MACD: 49.74
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.66 | 200-SMA: $65,098.55 | RSI: 50.3 | MACD: 40.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,466.83 | 200-SMA: $65,098.56 | RSI: 50.5 | MACD: 40.59
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,474.25 | 200-SMA: $65,098.59 | RSI: 51.3 | MACD: 41.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,486.61 | 200-SMA: $65,098.66 | RSI: 52.7 | MACD: 42.17
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,475.89 | 200-SMA: $65,101.26 | RSI: 51.4 | MACD: 35.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,476.56 | 200-SMA: $65,101.27 | RSI: 51.5 | MACD: 35.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.55 | 200-SMA: $65,101.19 | RSI: 49.8 | MACD: 34.79
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,481.85 | 200-SMA: $65,101.29 | RSI: 52.1 | MACD: 36.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,504.39 | 200-SMA: $65,104.24 | RSI: 54.7 | MACD: 33.68
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,509.67 | 200-SMA: $65,104.27 | RSI: 55.2 | MACD: 34.10
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,511.98 | 200-SMA: $65,104.28 | RSI: 55.5 | MACD: 34.28
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,511.99 | 200-SMA: $65,107.10 | RSI: 55.5 | MACD: 32.23
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,513.99 | 200-SMA: $65,107.11 | RSI: 55.7 | MACD: 32.39
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,509.96 | 200-SMA: $65,107.09 | RSI: 55.2 | MACD: 32.06
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,509.97 | 200-SMA: $65,107.09 | RSI: 55.2 | MACD: 32.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,559.24 | 200-SMA: $65,110.24 | RSI: 60.4 | MACD: 35.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,574.01 | 200-SMA: $65,110.31 | RSI: 61.7 | MACD: 36.43
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,562.01 | 200-SMA: $65,110.25 | RSI: 60.6 | MACD: 35.47
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,599.99 | 200-SMA: $65,110.44 | RSI: 63.9 | MACD: 38.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,619.29 | 200-SMA: $65,113.86 | RSI: 65.1 | MACD: 44.68
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,649.99 | 200-SMA: $65,114.01 | RSI: 67.6 | MACD: 47.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,655.94 | 200-SMA: $65,114.04 | RSI: 68.0 | MACD: 47.60
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,606.57 | 200-SMA: $65,113.79 | RSI: 63.3 | MACD: 43.66
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,585.84 | 200-SMA: $65,116.84 | RSI: 60.4 | MACD: 44.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,583.24 | 200-SMA: $65,116.82 | RSI: 60.0 | MACD: 43.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,528.09 | 200-SMA: $65,116.55 | RSI: 53.5 | MACD: 39.51
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,535.21 | 200-SMA: $65,116.58 | RSI: 54.3 | MACD: 40.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,583.17 | 200-SMA: $65,119.66 | RSI: 58.6 | MACD: 40.65
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,600.96 | 200-SMA: $65,119.74 | RSI: 59.9 | MACD: 42.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,593.73 | 200-SMA: $65,119.71 | RSI: 59.4 | MACD: 41.49
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,571.67 | 200-SMA: $65,122.84 | RSI: 57.6 | MACD: 39.00
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,553.65 | 200-SMA: $65,122.75 | RSI: 55.5 | MACD: 37.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,553.64 | 200-SMA: $65,122.75 | RSI: 55.5 | MACD: 37.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.01 | 200-SMA: $65,122.74 | RSI: 55.3 | MACD: 37.44
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.00 | 200-SMA: $65,125.86 | RSI: 55.3 | MACD: 35.21
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,526.23 | 200-SMA: $65,125.73 | RSI: 52.3 | MACD: 33.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,522.16 | 200-SMA: $65,125.71 | RSI: 51.8 | MACD: 32.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,522.17 | 200-SMA: $65,125.71 | RSI: 51.8 | MACD: 32.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,526.55 | 200-SMA: $65,128.93 | RSI: 52.3 | MACD: 29.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,526.35 | 200-SMA: $65,128.93 | RSI: 52.3 | MACD: 29.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,521.00 | 200-SMA: $65,128.90 | RSI: 51.7 | MACD: 28.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,519.27 | 200-SMA: $65,128.89 | RSI: 51.5 | MACD: 28.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,514.44 | 200-SMA: $65,132.11 | RSI: 50.9 | MACD: 24.70
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,559.97 | 200-SMA: $65,132.34 | RSI: 55.8 | MACD: 28.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,538.64 | 200-SMA: $65,132.23 | RSI: 53.6 | MACD: 26.63
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,528.70 | 200-SMA: $65,135.33 | RSI: 52.6 | MACD: 23.27
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,528.69 | 200-SMA: $65,135.33 | RSI: 52.6 | MACD: 23.27
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,526.01 | 200-SMA: $65,135.31 | RSI: 52.2 | MACD: 23.05
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,526.01 | 200-SMA: $65,135.31 | RSI: 52.2 | MACD: 23.05
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,528.88 | 200-SMA: $65,138.59 | RSI: 52.4 | MACD: 21.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,559.98 | 200-SMA: $65,138.75 | RSI: 56.2 | MACD: 23.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,567.27 | 200-SMA: $65,138.78 | RSI: 57.0 | MACD: 24.47
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,572.00 | 200-SMA: $65,138.81 | RSI: 57.5 | MACD: 24.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.89 | 200-SMA: $65,142.04 | RSI: 53.8 | MACD: 23.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,545.16 | 200-SMA: $65,142.04 | RSI: 53.7 | MACD: 23.40
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.43 | 200-SMA: $65,142.07 | RSI: 54.6 | MACD: 23.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,559.58 | 200-SMA: $65,142.11 | RSI: 55.6 | MACD: 24.55
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,555.71 | 200-SMA: $65,145.14 | RSI: 55.0 | MACD: 23.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,561.88 | 200-SMA: $65,145.17 | RSI: 55.9 | MACD: 24.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,590.12 | 200-SMA: $65,145.31 | RSI: 59.1 | MACD: 26.48
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,595.57 | 200-SMA: $65,148.36 | RSI: 59.6 | MACD: 28.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,628.86 | 200-SMA: $65,148.52 | RSI: 62.9 | MACD: 30.95
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,631.01 | 200-SMA: $65,148.54 | RSI: 63.1 | MACD: 31.12
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,633.71 | 200-SMA: $65,148.55 | RSI: 63.4 | MACD: 31.34
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,636.76 | 200-SMA: $65,151.82 | RSI: 63.7 | MACD: 34.88
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,631.01 | 200-SMA: $65,151.79 | RSI: 62.7 | MACD: 34.42
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,581.32 | 200-SMA: $65,151.54 | RSI: 55.6 | MACD: 30.46
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,598.44 | 200-SMA: $65,151.63 | RSI: 57.9 | MACD: 31.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,598.14 | 200-SMA: $65,154.66 | RSI: 57.8 | MACD: 31.58
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,586.12 | 200-SMA: $65,154.60 | RSI: 56.1 | MACD: 30.62
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,569.35 | 200-SMA: $65,154.51 | RSI: 53.9 | MACD: 29.28
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.01 | 200-SMA: $65,157.40 | RSI: 50.2 | MACD: 24.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,521.25 | 200-SMA: $65,157.30 | RSI: 48.0 | MACD: 22.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,523.56 | 200-SMA: $65,157.31 | RSI: 48.3 | MACD: 23.00
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,524.54 | 200-SMA: $65,160.18 | RSI: 48.4 | MACD: 18.25
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,525.52 | 200-SMA: $65,160.18 | RSI: 48.5 | MACD: 18.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,532.05 | 200-SMA: $65,160.22 | RSI: 49.3 | MACD: 18.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,530.02 | 200-SMA: $65,163.03 | RSI: 49.2 | MACD: 14.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,525.42 | 200-SMA: $65,163.01 | RSI: 48.6 | MACD: 14.14
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,560.45 | 200-SMA: $65,163.18 | RSI: 52.9 | MACD: 16.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.33 | 200-SMA: $65,163.14 | RSI: 52.0 | MACD: 16.28
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,531.83 | 200-SMA: $65,165.95 | RSI: 49.3 | MACD: 12.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,531.83 | 200-SMA: $65,165.95 | RSI: 49.3 | MACD: 12.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,531.83 | 200-SMA: $65,165.95 | RSI: 49.3 | MACD: 12.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,531.82 | 200-SMA: $65,165.95 | RSI: 49.3 | MACD: 12.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,530.18 | 200-SMA: $65,168.60 | RSI: 49.1 | MACD: 10.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,548.97 | 200-SMA: $65,168.70 | RSI: 51.6 | MACD: 11.81
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.31 | 200-SMA: $65,168.71 | RSI: 52.0 | MACD: 12.08
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,570.10 | 200-SMA: $65,171.71 | RSI: 54.1 | MACD: 13.76
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,532.23 | 200-SMA: $65,171.52 | RSI: 49.2 | MACD: 10.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,546.76 | 200-SMA: $65,171.59 | RSI: 51.0 | MACD: 11.89
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,535.24 | 200-SMA: $65,171.53 | RSI: 49.5 | MACD: 10.97
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,516.21 | 200-SMA: $65,174.00 | RSI: 47.3 | MACD: 6.52
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,506.08 | 200-SMA: $65,173.95 | RSI: 46.1 | MACD: 5.71
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,491.04 | 200-SMA: $65,173.87 | RSI: 44.5 | MACD: 4.51
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,504.51 | 200-SMA: $65,173.94 | RSI: 45.9 | MACD: 5.59
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,500.58 | 200-SMA: $65,176.49 | RSI: 45.5 | MACD: 1.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,502.41 | 200-SMA: $65,176.49 | RSI: 45.7 | MACD: 1.98
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,496.43 | 200-SMA: $65,176.46 | RSI: 45.0 | MACD: 1.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,482.38 | 200-SMA: $65,176.39 | RSI: 43.4 | MACD: 0.38
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,530.63 | 200-SMA: $65,179.19 | RSI: 49.8 | MACD: 0.44
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,516.33 | 200-SMA: $65,179.12 | RSI: 48.0 | MACD: -0.70
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,506.28 | 200-SMA: $65,179.07 | RSI: 46.7 | MACD: -1.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,525.70 | 200-SMA: $65,181.85 | RSI: 49.2 | MACD: -0.51
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,528.20 | 200-SMA: $65,181.87 | RSI: 49.6 | MACD: -0.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,522.01 | 200-SMA: $65,181.83 | RSI: 48.8 | MACD: -0.81
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,522.70 | 200-SMA: $65,181.84 | RSI: 48.8 | MACD: -0.75
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,527.28 | 200-SMA: $65,184.76 | RSI: 49.5 | MACD: -0.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,527.28 | 200-SMA: $65,184.76 | RSI: 49.5 | MACD: -0.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,506.49 | 200-SMA: $65,184.66 | RSI: 46.7 | MACD: -2.50
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,514.09 | 200-SMA: $65,184.70 | RSI: 47.7 | MACD: -1.90
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,515.29 | 200-SMA: $65,187.54 | RSI: 48.0 | MACD: -3.20
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,483.02 | 200-SMA: $65,187.38 | RSI: 43.7 | MACD: -5.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,469.61 | 200-SMA: $65,187.31 | RSI: 42.2 | MACD: -6.85
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,456.95 | 200-SMA: $65,187.25 | RSI: 40.8 | MACD: -7.86
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,456.96 | 200-SMA: $65,189.68 | RSI: 40.8 | MACD: -12.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.36 | 200-SMA: $65,189.72 | RSI: 42.2 | MACD: -11.40
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,470.47 | 200-SMA: $65,189.74 | RSI: 42.9 | MACD: -10.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,470.48 | 200-SMA: $65,189.74 | RSI: 42.9 | MACD: -10.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,484.23 | 200-SMA: $65,192.60 | RSI: 44.9 | MACD: -11.37
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,462.97 | 200-SMA: $65,192.49 | RSI: 42.5 | MACD: -13.07
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,452.41 | 200-SMA: $65,192.44 | RSI: 41.3 | MACD: -13.91
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,449.39 | 200-SMA: $65,192.42 | RSI: 41.0 | MACD: -14.15
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,441.02 | 200-SMA: $65,194.62 | RSI: 40.1 | MACD: -17.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.14 | 200-SMA: $65,194.72 | RSI: 42.8 | MACD: -16.39
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,484.23 | 200-SMA: $65,194.84 | RSI: 46.1 | MACD: -14.55
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,466.00 | 200-SMA: $65,194.75 | RSI: 43.5 | MACD: -16.00
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.52 | 200-SMA: $65,196.96 | RSI: 43.5 | MACD: -17.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,459.00 | 200-SMA: $65,196.93 | RSI: 42.7 | MACD: -17.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.41 | 200-SMA: $65,196.96 | RSI: 43.5 | MACD: -17.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,460.61 | 200-SMA: $65,198.67 | RSI: 42.9 | MACD: -18.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,456.63 | 200-SMA: $65,198.65 | RSI: 42.4 | MACD: -19.14
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,451.23 | 200-SMA: $65,198.63 | RSI: 41.8 | MACD: -19.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,459.34 | 200-SMA: $65,198.67 | RSI: 42.7 | MACD: -18.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,469.78 | 200-SMA: $65,200.54 | RSI: 44.6 | MACD: -18.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,469.79 | 200-SMA: $65,200.54 | RSI: 44.6 | MACD: -18.84
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,463.40 | 200-SMA: $65,200.51 | RSI: 43.5 | MACD: -19.35
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,476.49 | 200-SMA: $65,200.57 | RSI: 45.7 | MACD: -18.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,469.53 | 200-SMA: $65,202.45 | RSI: 44.7 | MACD: -17.95
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,460.98 | 200-SMA: $65,202.41 | RSI: 43.6 | MACD: -18.63
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,437.99 | 200-SMA: $65,202.29 | RSI: 40.8 | MACD: -20.47
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,444.00 | 200-SMA: $65,202.32 | RSI: 41.5 | MACD: -19.99
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,439.40 | 200-SMA: $65,204.07 | RSI: 40.9 | MACD: -21.66
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,449.99 | 200-SMA: $65,204.13 | RSI: 42.5 | MACD: -20.82
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,465.63 | 200-SMA: $65,204.21 | RSI: 45.1 | MACD: -19.57
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,467.39 | 200-SMA: $65,206.33 | RSI: 45.4 | MACD: -18.77
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,461.81 | 200-SMA: $65,206.30 | RSI: 44.6 | MACD: -19.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,467.02 | 200-SMA: $65,206.33 | RSI: 45.4 | MACD: -18.80
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,472.13 | 200-SMA: $65,206.35 | RSI: 46.2 | MACD: -18.40
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,467.03 | 200-SMA: $65,208.28 | RSI: 45.4 | MACD: -17.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,484.23 | 200-SMA: $65,208.37 | RSI: 48.3 | MACD: -16.41
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,497.57 | 200-SMA: $65,210.40 | RSI: 50.3 | MACD: -12.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,496.91 | 200-SMA: $65,210.40 | RSI: 50.2 | MACD: -12.83
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,491.03 | 200-SMA: $65,210.37 | RSI: 49.3 | MACD: -13.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,491.03 | 200-SMA: $65,210.37 | RSI: 49.3 | MACD: -13.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,477.94 | 200-SMA: $65,212.45 | RSI: 47.2 | MACD: -13.00
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,477.94 | 200-SMA: $65,212.45 | RSI: 47.2 | MACD: -13.00
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,489.99 | 200-SMA: $65,212.51 | RSI: 49.2 | MACD: -12.03
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,525.69 | 200-SMA: $65,212.69 | RSI: 54.6 | MACD: -9.19
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,516.49 | 200-SMA: $65,215.13 | RSI: 53.0 | MACD: -6.18
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,529.88 | 200-SMA: $65,215.20 | RSI: 55.2 | MACD: -5.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,541.13 | 200-SMA: $65,215.26 | RSI: 56.7 | MACD: -4.22
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,535.22 | 200-SMA: $65,217.93 | RSI: 55.9 | MACD: -1.11
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.49 | 200-SMA: $65,217.96 | RSI: 56.7 | MACD: -0.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.49 | 200-SMA: $65,217.96 | RSI: 56.7 | MACD: -0.69
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.00 | 200-SMA: $65,217.96 | RSI: 56.6 | MACD: -0.73
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,541.48 | 200-SMA: $65,220.42 | RSI: 56.8 | MACD: 2.66
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,558.69 | 200-SMA: $65,220.50 | RSI: 59.3 | MACD: 4.03
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,562.15 | 200-SMA: $65,220.52 | RSI: 59.7 | MACD: 4.30
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,562.16 | 200-SMA: $65,220.52 | RSI: 59.7 | MACD: 4.31
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,551.76 | 200-SMA: $65,223.04 | RSI: 57.6 | MACD: 7.21
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,538.64 | 200-SMA: $65,222.98 | RSI: 55.2 | MACD: 6.16
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,548.19 | 200-SMA: $65,223.02 | RSI: 56.9 | MACD: 6.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,548.20 | 200-SMA: $65,223.02 | RSI: 56.9 | MACD: 6.93
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,565.46 | 200-SMA: $65,225.29 | RSI: 59.5 | MACD: 10.28
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,561.15 | 200-SMA: $65,225.27 | RSI: 58.9 | MACD: 9.94
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,563.99 | 200-SMA: $65,225.28 | RSI: 59.3 | MACD: 10.16
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,557.44 | 200-SMA: $65,225.25 | RSI: 58.3 | MACD: 9.64
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,535.00 | 200-SMA: $65,227.57 | RSI: 53.8 | MACD: 9.87
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,533.96 | 200-SMA: $65,227.56 | RSI: 53.6 | MACD: 9.78
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,540.78 | 200-SMA: $65,227.60 | RSI: 54.9 | MACD: 10.33
+⚠️ [API ERROR] HTTP 404. Please verify your CRYPTOPANIC_KEY in .env!
+📊 [SCAN] BTC: $65,552.66 | 200-SMA: $65,230.11 | RSI: 57.3 | MACD: 12.43
+💠 RIVERFLOW APEX 4.0: TRIPLE-NODE ARCHITECTURE INITIALIZING...
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,552.65 | 200-SMA: $65,230.11 | RSI: 57.3 | MACD: 12.42
+📊 [SCAN] BTC: $65,541.47 | 200-SMA: $65,230.06 | RSI: 54.8 | MACD: 11.53
+📊 [SCAN] BTC: $65,541.47 | 200-SMA: $65,230.06 | RSI: 54.8 | MACD: 11.53
+📊 [SCAN] BTC: $65,536.00 | 200-SMA: $65,230.03 | RSI: 53.7 | MACD: 11.10
+📊 [SCAN] BTC: $65,540.60 | 200-SMA: $65,232.31 | RSI: 54.5 | MACD: 11.01
+📊 [SCAN] BTC: $65,540.60 | 200-SMA: $65,232.31 | RSI: 54.5 | MACD: 11.01
+📊 [SCAN] BTC: $65,540.60 | 200-SMA: $65,232.31 | RSI: 54.5 | MACD: 11.01
+📊 [SCAN] BTC: $65,547.27 | 200-SMA: $65,232.34 | RSI: 55.6 | MACD: 11.54
+📊 [SCAN] BTC: $65,560.71 | 200-SMA: $65,234.69 | RSI: 57.9 | MACD: 13.02
+📊 [SCAN] BTC: $65,565.03 | 200-SMA: $65,234.72 | RSI: 58.6 | MACD: 13.36
+📊 [SCAN] BTC: $65,559.19 | 200-SMA: $65,234.69 | RSI: 57.7 | MACD: 12.90
+📊 [SCAN] BTC: $65,554.90 | 200-SMA: $65,236.87 | RSI: 57.0 | MACD: 13.21
+📊 [SCAN] BTC: $65,564.63 | 200-SMA: $65,236.92 | RSI: 58.7 | MACD: 13.99
+📊 [SCAN] BTC: $65,570.10 | 200-SMA: $65,236.95 | RSI: 59.6 | MACD: 14.42
+📊 [SCAN] BTC: $65,567.45 | 200-SMA: $65,236.94 | RSI: 59.1 | MACD: 14.21
+📊 [SCAN] BTC: $65,547.78 | 200-SMA: $65,239.23 | RSI: 54.2 | MACD: 14.18
+📊 [SCAN] BTC: $65,558.70 | 200-SMA: $65,239.29 | RSI: 56.5 | MACD: 15.05
+📊 [SCAN] BTC: $65,558.70 | 200-SMA: $65,239.29 | RSI: 56.5 | MACD: 15.05
+📊 [SCAN] BTC: $65,560.62 | 200-SMA: $65,239.30 | RSI: 57.0 | MACD: 15.21
+📊 [SCAN] BTC: $65,554.01 | 200-SMA: $65,241.53 | RSI: 55.4 | MACD: 14.76
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,542.79 | 200-SMA: $65,241.47 | RSI: 52.9 | MACD: 13.86
+📊 [SCAN] BTC: $65,564.05 | 200-SMA: $65,241.58 | RSI: 57.5 | MACD: 15.56
+📊 [SCAN] BTC: $65,570.29 | 200-SMA: $65,241.61 | RSI: 58.6 | MACD: 16.06
+📊 [SCAN] BTC: $65,612.48 | 200-SMA: $65,244.16 | RSI: 65.0 | MACD: 20.63
+📊 [SCAN] BTC: $65,575.79 | 200-SMA: $65,243.98 | RSI: 59.1 | MACD: 17.71
+📊 [SCAN] BTC: $65,535.64 | 200-SMA: $65,243.78 | RSI: 50.7 | MACD: 14.50
+📊 [SCAN] BTC: $65,532.79 | 200-SMA: $65,243.76 | RSI: 50.2 | MACD: 14.28
+📊 [SCAN] BTC: $65,564.52 | 200-SMA: $65,246.09 | RSI: 55.7 | MACD: 15.11
+📊 [SCAN] BTC: $65,570.00 | 200-SMA: $65,246.12 | RSI: 56.6 | MACD: 15.55
+📊 [SCAN] BTC: $65,553.62 | 200-SMA: $65,246.03 | RSI: 53.9 | MACD: 14.24
+📊 [SCAN] BTC: $65,527.19 | 200-SMA: $65,245.90 | RSI: 49.0 | MACD: 12.13
+⚠️ Technical & Sentiment Lock Achieved. Requesting SEC RAG Clearance...
+🔏 [AUDIT] BUY Execution securely logged to TimescaleDB.
+📊 [SCAN] BTC: $65,496.89 | 200-SMA: $65,249.76 | RSI: 44.4 | MACD: 2.28
+🔏 [AUDIT] SELL_SL Execution securely logged to TimescaleDB.
+📊 [SCAN] BTC: $65,523.21 | 200-SMA: $65,249.89 | RSI: 49.3 | MACD: 4.38
+📊 [SCAN] BTC: $65,523.21 | 200-SMA: $65,249.89 | RSI: 49.3 | MACD: 4.38
+📊 [SCAN] BTC: $65,539.58 | 200-SMA: $65,252.22 | RSI: 52.1 | MACD: 4.64
+📊 [SCAN] BTC: $65,513.94 | 200-SMA: $65,252.09 | RSI: 47.7 | MACD: 2.60
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,539.99 | 200-SMA: $65,252.22 | RSI: 52.1 | MACD: 4.68
+📊 [SCAN] BTC: $65,506.24 | 200-SMA: $65,252.05 | RSI: 46.4 | MACD: 1.99
+📊 [SCAN] BTC: $65,500.01 | 200-SMA: $65,254.24 | RSI: 45.4 | MACD: -0.19
+📊 [SCAN] BTC: $65,473.02 | 200-SMA: $65,254.10 | RSI: 41.4 | MACD: -2.34
+📊 [SCAN] BTC: $65,490.77 | 200-SMA: $65,254.19 | RSI: 43.9 | MACD: -0.93
+📊 [SCAN] BTC: $65,490.77 | 200-SMA: $65,254.19 | RSI: 43.9 | MACD: -0.93
+📊 [SCAN] BTC: $65,489.02 | 200-SMA: $65,256.27 | RSI: 43.5 | MACD: -3.02
+📊 [SCAN] BTC: $65,491.77 | 200-SMA: $65,256.29 | RSI: 44.0 | MACD: -2.81
+📊 [SCAN] BTC: $65,508.20 | 200-SMA: $65,256.37 | RSI: 47.0 | MACD: -1.49
+📊 [SCAN] BTC: $65,527.02 | 200-SMA: $65,256.46 | RSI: 50.5 | MACD: 0.01
+📊 [SCAN] BTC: $65,511.38 | 200-SMA: $65,258.77 | RSI: 47.7 | MACD: -1.05
+📊 [SCAN] BTC: $65,516.57 | 200-SMA: $65,258.80 | RSI: 48.6 | MACD: -0.64
+📊 [SCAN] BTC: $65,516.55 | 200-SMA: $65,258.80 | RSI: 48.6 | MACD: -0.64
+📊 [SCAN] BTC: $65,538.20 | 200-SMA: $65,258.90 | RSI: 52.5 | MACD: 1.09
+📊 [SCAN] BTC: $65,531.65 | 200-SMA: $65,261.39 | RSI: 51.2 | MACD: 1.40
+📊 [SCAN] BTC: $65,538.19 | 200-SMA: $65,261.42 | RSI: 52.5 | MACD: 1.92
+📊 [SCAN] BTC: $65,555.33 | 200-SMA: $65,261.51 | RSI: 55.4 | MACD: 3.29
+📊 [SCAN] BTC: $65,550.93 | 200-SMA: $65,264.49 | RSI: 54.7 | MACD: 4.35
+📊 [SCAN] BTC: $65,544.37 | 200-SMA: $65,264.46 | RSI: 53.3 | MACD: 3.83
+📊 [SCAN] BTC: $65,540.78 | 200-SMA: $65,264.44 | RSI: 52.6 | MACD: 3.54
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,519.63 | 200-SMA: $65,264.34 | RSI: 48.7 | MACD: 1.85
+📊 [SCAN] BTC: $65,492.30 | 200-SMA: $65,266.97 | RSI: 44.4 | MACD: -2.57
+📊 [SCAN] BTC: $65,488.30 | 200-SMA: $65,266.95 | RSI: 43.7 | MACD: -2.89
+📊 [SCAN] BTC: $65,482.18 | 200-SMA: $65,266.92 | RSI: 42.9 | MACD: -3.37
+📊 [SCAN] BTC: $65,482.19 | 200-SMA: $65,266.92 | RSI: 42.9 | MACD: -3.37
+📊 [SCAN] BTC: $65,492.30 | 200-SMA: $65,269.83 | RSI: 44.9 | MACD: -5.23
+📊 [SCAN] BTC: $65,492.30 | 200-SMA: $65,269.83 | RSI: 44.9 | MACD: -5.23
+📊 [SCAN] BTC: $65,492.29 | 200-SMA: $65,269.83 | RSI: 44.9 | MACD: -5.23
+📊 [SCAN] BTC: $65,512.50 | 200-SMA: $65,269.93 | RSI: 48.5 | MACD: -3.62
+📊 [SCAN] BTC: $65,529.83 | 200-SMA: $65,273.07 | RSI: 51.4 | MACD: -2.39
+📊 [SCAN] BTC: $65,550.61 | 200-SMA: $65,273.18 | RSI: 54.5 | MACD: -0.73
+📊 [SCAN] BTC: $65,518.72 | 200-SMA: $65,273.02 | RSI: 49.5 | MACD: -3.28
+📊 [SCAN] BTC: $65,534.28 | 200-SMA: $65,273.09 | RSI: 52.1 | MACD: -2.03
+📊 [SCAN] BTC: $65,565.78 | 200-SMA: $65,276.40 | RSI: 56.8 | MACD: 1.74
+📊 [SCAN] BTC: $65,564.66 | 200-SMA: $65,276.39 | RSI: 56.7 | MACD: 1.65
+📊 [SCAN] BTC: $65,560.15 | 200-SMA: $65,276.37 | RSI: 56.1 | MACD: 1.29
+📊 [SCAN] BTC: $65,568.58 | 200-SMA: $65,276.41 | RSI: 57.2 | MACD: 1.97
+📊 [SCAN] BTC: $65,575.99 | 200-SMA: $65,279.96 | RSI: 58.2 | MACD: 5.67
+📊 [SCAN] BTC: $65,583.01 | 200-SMA: $65,280.00 | RSI: 59.2 | MACD: 6.23
+📊 [SCAN] BTC: $65,558.69 | 200-SMA: $65,279.88 | RSI: 55.4 | MACD: 4.29
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,546.26 | 200-SMA: $65,283.07 | RSI: 53.2 | MACD: 4.31
+📊 [SCAN] BTC: $65,543.04 | 200-SMA: $65,283.05 | RSI: 52.7 | MACD: 4.05
+📊 [SCAN] BTC: $65,546.73 | 200-SMA: $65,283.07 | RSI: 53.3 | MACD: 4.34
+📊 [SCAN] BTC: $65,560.00 | 200-SMA: $65,283.14 | RSI: 55.3 | MACD: 5.40
+📊 [SCAN] BTC: $65,553.66 | 200-SMA: $65,286.33 | RSI: 54.4 | MACD: 6.09
+📊 [SCAN] BTC: $65,532.47 | 200-SMA: $65,286.23 | RSI: 50.6 | MACD: 4.40
+📊 [SCAN] BTC: $65,532.46 | 200-SMA: $65,286.23 | RSI: 50.6 | MACD: 4.40
+📊 [SCAN] BTC: $65,524.61 | 200-SMA: $65,286.19 | RSI: 49.3 | MACD: 3.77
+⚠️ Technical & Sentiment Lock Achieved. Requesting SEC RAG Clearance...
+🔏 [AUDIT] BUY Execution securely logged to TimescaleDB.
+📊 [SCAN] BTC: $65,501.15 | 200-SMA: $65,292.30 | RSI: 45.6 | MACD: -1.12
+🔏 [AUDIT] SELL_SL Execution securely logged to TimescaleDB.
+📊 [SCAN] BTC: $65,496.41 | 200-SMA: $65,292.28 | RSI: 44.9 | MACD: -1.50
+📊 [SCAN] BTC: $65,504.01 | 200-SMA: $65,292.32 | RSI: 46.1 | MACD: -0.89
+📊 [SCAN] BTC: $65,504.01 | 200-SMA: $65,292.32 | RSI: 46.1 | MACD: -0.89
+📊 [SCAN] BTC: $65,474.13 | 200-SMA: $65,295.11 | RSI: 41.4 | MACD: -4.83
+📊 [SCAN] BTC: $65,465.23 | 200-SMA: $65,295.06 | RSI: 40.2 | MACD: -5.54
+📊 [SCAN] BTC: $65,468.15 | 200-SMA: $65,295.08 | RSI: 40.6 | MACD: -5.31
+📊 [SCAN] BTC: $65,459.20 | 200-SMA: $65,295.03 | RSI: 39.4 | MACD: -6.03
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,462.03 | 200-SMA: $65,297.75 | RSI: 40.0 | MACD: -9.75
+📊 [SCAN] BTC: $65,462.03 | 200-SMA: $65,297.75 | RSI: 40.0 | MACD: -9.75
+📊 [SCAN] BTC: $65,462.02 | 200-SMA: $65,297.75 | RSI: 40.0 | MACD: -9.75
+📊 [SCAN] BTC: $65,439.42 | 200-SMA: $65,300.49 | RSI: 36.9 | MACD: -15.49
+📊 [SCAN] BTC: $65,428.78 | 200-SMA: $65,300.44 | RSI: 35.6 | MACD: -16.34
+📊 [SCAN] BTC: $65,419.87 | 200-SMA: $65,300.39 | RSI: 34.5 | MACD: -17.05
+📊 [SCAN] BTC: $65,417.45 | 200-SMA: $65,300.38 | RSI: 34.3 | MACD: -17.24
+📊 [SCAN] BTC: $65,427.44 | 200-SMA: $65,303.10 | RSI: 35.8 | MACD: -20.57
+📊 [SCAN] BTC: $65,417.44 | 200-SMA: $65,303.05 | RSI: 34.2 | MACD: -21.37
+📊 [SCAN] BTC: $65,405.43 | 200-SMA: $65,302.99 | RSI: 32.9 | MACD: -22.33
+📊 [SCAN] BTC: $65,396.81 | 200-SMA: $65,302.95 | RSI: 31.9 | MACD: -23.01
+📊 [SCAN] BTC: $65,394.64 | 200-SMA: $65,305.50 | RSI: 31.7 | MACD: -27.86
+📊 [SCAN] BTC: $65,407.61 | 200-SMA: $65,305.56 | RSI: 34.4 | MACD: -26.82
+📊 [SCAN] BTC: $65,401.06 | 200-SMA: $65,305.53 | RSI: 32.9 | MACD: -27.34
+📊 [SCAN] BTC: $65,393.16 | 200-SMA: $65,305.49 | RSI: 31.5 | MACD: -27.97
+📊 [SCAN] BTC: $65,367.06 | 200-SMA: $65,307.97 | RSI: 28.8 | MACD: -33.87
+📊 [SCAN] BTC: $65,385.52 | 200-SMA: $65,308.06 | RSI: 30.7 | MACD: -32.40
+📊 [SCAN] BTC: $65,378.98 | 200-SMA: $65,308.03 | RSI: 30.0 | MACD: -32.92
+📊 [SCAN] BTC: $65,377.75 | 200-SMA: $65,308.03 | RSI: 29.9 | MACD: -33.02
+📊 [SCAN] BTC: $65,376.28 | 200-SMA: $65,310.66 | RSI: 29.7 | MACD: -36.46
+📰 [NEWS SYNC] Latest Headline: CME Group Expands Into 24/7 Crypto Trading in Majo...
+📊 [SCAN] BTC: $65,377.87 | 200-SMA: $65,310.67 | RSI: 29.9 | MACD: -36.33

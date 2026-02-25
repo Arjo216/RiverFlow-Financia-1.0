@@ -196,8 +196,8 @@ def get_news():
     if current_time - last_news_time < 300:
         return cached_headline
 
-    # The standard v1 API endpoint
-    url = f"https://cryptopanic.com/api/free/v1/posts/?auth_token={CRYPTOPANIC_KEY}&currencies=BTC&filter=hot"
+   # The upgraded Developer v2 API endpoint
+    url = f"https://cryptopanic.com/api/developer/v2/posts/?auth_token={CRYPTOPANIC_KEY}&currencies=BTC&filter=hot&public=true"
     
     # Institutional User-Agent to bypass basic Cloudflare blocks
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -305,8 +305,8 @@ def run_apex():
             print(f"📊 [SCAN] BTC: ${price:,.2f} | 200-SMA: ${sma_200:,.2f} | RSI: {rsi:.1f} | MACD: {macd:.2f}")
 
             # TRIPLE-NODE EXECUTION
-            #if rsi < 50 and macd > signal and price > sma_200 and ai_score > 0.3:
-            if rsi < 50 and macd > signal and price > sma_200:
+            if rsi < 50 and macd > signal and price > sma_200 and ai_score > 0.3:
+            #if rsi < 50 and macd > signal and price > sma_200:
                 print("⚠️ Technical & Sentiment Lock Achieved. Requesting SEC RAG Clearance...")
                 is_clear, reason = vault.get_macro_clearance()
                 # --- 🚧 DEV OVERRIDE: FORCE INSTANT EXECUTION ---
