@@ -49,12 +49,8 @@ Injects high-density vectors into a PostgreSQL pgvector index.
 Forces Llama-3.3-70B to audit the company's debt-risk profile against the vectorized data before authorizing capital deployment.
 
 🛠️ Infrastructure & Tech Stack
-Component,Technology,Operational Function
-Execution Protocol,Alpaca REST API,Paper trading integration with dynamic ATR stop-loss logic.
-Containerization,Docker Compose,Strict environment isolation for heavy ML vs. fast logic scripts.
-Immutable Ledger,TimescaleDB,High-throughput time-series relational database for execution audits.
-Vector Engine,LangChain & PGVector,Semantic chunking and vector-space similarity search for RAG.
-Command Center,Streamlit,"Real-time visual telemetry, fundamental vault querying, and emergency override."
+ComponentTechnologyOperational FunctionExecution ProtocolAlpaca REST APIPaper trading integration with dynamic ATR stop-loss logic.ContainerizationDocker ComposeStrict environment isolation for heavy ML vs. fast logic scripts.Immutable LedgerTimescaleDBHigh-throughput time-series relational database for execution audits.Vector EngineLangChain & PGVectorSemantic chunking and vector-space similarity search for RAG.Command CenterStreamlitReal-time visual telemetry, fundamental vault querying, and emergency override.
+
 🚦 Deployment & Initialization
 1. Cryptographic Environment
 Configure standard API access keys in the master .env file.
@@ -77,6 +73,7 @@ Fire the data pipeline to scrape, vectorize, and permanently index the target SE
 
 Bash
 docker exec -it sentient_analyst python sec_ingestor.py
+
 🛡️ Risk Management & Immutability
 Capital Allocation: Hard-capped at 10% of total equity per strike.
 
