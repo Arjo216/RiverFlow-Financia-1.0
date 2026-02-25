@@ -1,84 +1,125 @@
 <div align="center">
 
 # 🌊 RiverFlow Apex 4.0
-**Autonomous Multi-Agent Hedge Fund Architecture**
+**Autonomous Triple-Node AI Hedge Fund Architecture**
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
-[![TimescaleDB](https://img.shields.io/badge/TimescaleDB-Optimized-F0B70D?style=for-the-badge&logo=postgresql&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Microservices-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![TimescaleDB](https://img.shields.io/badge/PGVector-Vault-F0B70D?style=for-the-badge&logo=postgresql&logoColor=black)](#)
 [![AI Reasoner](https://img.shields.io/badge/Groq-Llama_3.3_70B-f44336?style=for-the-badge&logo=meta&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)](#)
 
-*Fusing Event-Driven Microservices (Kafka), Real-Time Market Data (TimescaleDB), and AI Agents (RAG/GNN) for institutional-grade alpha generation.*
-
-<div align="center">
-
-🌊 RIVERFLOW APEX 4.0
-Autonomous Triple-Node Quantitative Hedge Fund Architecture
-
-An event-driven algorithmic trading syndicate fusing ultra-low latency technical analysis, live NLP sentiment scoring, and institutional RAG (Retrieval-Augmented Generation) SEC fundamental clearance.
+*Fusing Event-Driven Microservices, Real-Time Market Math, and Institutional Retrieval-Augmented Generation (RAG) for absolute alpha generation.*
 
 </div>
 
-🏛️ Executive Architecture Overview
-RiverFlow Apex 4.0 discards the traditional single-script trading bot model in favor of a robust, distributed microservice environment. Built for absolute capital preservation and mathematical precision, the system distributes cognitive load across specialized autonomous agents.
+---
 
-The infrastructure is strictly isolated into two primary cognitive nodes linked by an immutable TimescaleDB ledger:
+## 💠 The Autonomous Intelligence Engine
+> *"RiverFlow prioritizes the cryptographic reliability of an immutable ledger over the theoretical speed of an unverified execution."*
 
-The Quantitative Execution Node (sentient_writer): A lightweight, ultra-fast Python daemon evaluating live Binance ticker data against dynamic volatility models.
+**RiverFlow Apex 4.0** is an institutional-grade, distributed algorithmic trading suite. It completely eliminates "black box" trading by fusing high-frequency technical analysis with advanced Large Language Model (LLM) sentiment synthesis and real-time SEC filing verification. Engineered for deployment on the Alpaca exchange, it operates on a strict, zero-trust **Triple-Node Architecture**.
 
-The Intelligence Processing Node (sentient_analyst): A heavy, NLP-optimized machine learning pipeline dedicated to scraping, vectorizing, and comprehending real-time global news and SEC filings.
 
-🔐 The Triple-Node Consensus Protocol
-A position is only initialized when absolute multi-factor confluence is achieved. The execution logic requires a synchronized "CLEAR" signal from three distinct quantitative domains.
 
-1. Mathematical Confluence (The Technical Lock)Evaluates real-time price action to identify mathematically oversold conditions during macroeconomic uptrends.$$RSI = 100 - \frac{100}{1 + \frac{\text{EMA}(\text{Gain})}{\text{EMA}(\text{Loss})}}$$$$MACD = EMA_{12}(Price) - EMA_{26}(Price)$$Relative Strength Index (14-period) strictly < 50.MACD histogram confirms bullish momentum crossover.Asset price remains strictly above the 200-SMA baseline.
+### 🚀 Core Architecture
+* 🧠 **Neural RAG Engine**: Leverages `Llama-3.3-70B` via **Groq LPUs** to slice, vectorize, and reason over dense 150-page SEC 10-K filings in milliseconds.
+* 📈 **Quantitative Suite**: High-speed, Pandas-driven vectorized calculation of **RSI, MACD, and 200-SMA** for multi-factor signal confluence.
+* 🛡️ **Immutable Audit Vault**: Every execution, technical parameter, and AI reasoning log is permanently engraved into a **TimescaleDB** instance to ensure total regulatory compliance and explainability.
+* ⚡ **Global Sentiment Sync**: Live NLP aggregation of global macroeconomic news via the **CryptoPanic API**.
+* 📱 **Mobile Command & Control**: Real-time Streamlit Dashboard visualization and push-based auditing via the **Telegram Bot API**.
 
-2. Global Sentiment Analysis (The NLP Lock)
-Leverages the CryptoPanic API to aggregate real-time global headlines. The data is processed through a quantized Llama-3.1-8B endpoint to assign a numerical sentiment weight. The aggregate score must exceed +0.3 to proceed.
+---
 
-3. Institutional Fundamental Clearance (The RAG Vault)
-Executes a Retrieval-Augmented Generation pipeline against direct SEC 10-K filings (e.g., MicroStrategy).
+## 📊 The Triple-Lock Consensus Protocol
+A trade is only authorized when three fully independent, isolated microservices reach consensus. If a single node dissents, the execution is terminated.
 
-Autonomously bypasses SEC firewalls via BeautifulSoup to ingest raw 10-K data.
+1. **The Quant Node (Math)**: RSI indicates a severe oversold dip (`< 50`) while maintaining macro support (`Price > 200-SMA`). Momentum is confirmed via MACD crossover.
+2. **The Sentinel Node (Sentiment)**: Groq AI parses live global headlines, isolating noise from systemic shocks, requiring a confidence score of `> +0.3`.
+3. **The Institutional Node (Fundamental)**: The system queries a specialized PGVector database containing vectorized SEC corporate filings. The AI must explicitly return `CLEAR` regarding corporate debt and liquidation risks.
 
-Translates linguistic data into mathematical arrays via HuggingFace all-MiniLM-L6-v2 embeddings.
+---
 
-Injects high-density vectors into a PostgreSQL pgvector index.
+## 🛠️ The Microservice Stack
+To guarantee high availability and prevent resource starvation, heavy Machine Learning processing is strictly isolated from the ultra-fast trading execution engine.
 
-Forces Llama-3.3-70B to audit the company's debt-risk profile against the vectorized data before authorizing capital deployment.
+| Microservice | Designation | Technology | Description |
+| :--- | :--- | :--- | :--- |
+| `sentient_writer` | **The Execution Bot** | ![Python](https://img.shields.io/badge/Python-Lightweight-3776AB?style=flat-square&logo=python&logoColor=white) | A stripped-down, lightning-fast loop that monitors Binance webhooks, calculates indicators, and fires Alpaca API orders. |
+| `sentient_analyst` | **The NLP Heavy Engine** | ![PyTorch](https://img.shields.io/badge/PyTorch-LangChain-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | Houses massive HuggingFace sentence-transformers and BeautifulSoup web-scrapers to digest and vectorize SEC 10-K filings. |
+| `sentient_db` | **The Immutable Ledger** | ![PostgreSQL](https://img.shields.io/badge/TimescaleDB-PGVector-316192?style=flat-square&logo=postgresql&logoColor=white) | Central nervous system. Stores vector embeddings for the RAG brain and immutable logs of all executed trades. |
+| `sentient_dashboard`| **The Glass Box UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | Real-time command center for monitoring the RAG brain, auditing trade history, and triggering emergency liquidations. |
 
-🛠️ Infrastructure & Tech Stack
-ComponentTechnologyOperational FunctionExecution ProtocolAlpaca REST APIPaper trading integration with dynamic ATR stop-loss logic.ContainerizationDocker ComposeStrict environment isolation for heavy ML vs. fast logic scripts.Immutable LedgerTimescaleDBHigh-throughput time-series relational database for execution audits.Vector EngineLangChain & PGVectorSemantic chunking and vector-space similarity search for RAG.Command CenterStreamlitReal-time visual telemetry, fundamental vault querying, and emergency override.
+---
 
-🚦 Deployment & Initialization
-1. Cryptographic Environment
-Configure standard API access keys in the master .env file.
+## 🗄️ The SEC RAG Pipeline (Phase C)
+General "internet knowledge" is lethal in quantitative finance. RiverFlow Apex utilizes a custom Retrieval-Augmented Generation pipeline to ground its AI strictly in verified corporate reality.
 
-Bash
+
+
+1. **Target Acquisition**: Bypasses basic firewall protections to scrape live Edgar SEC filings.
+2. **The Slicer**: `RecursiveCharacterTextSplitter` breaks 100+ page documents into strategic overlapping chunks.
+3. **Neural Translation**: `all-MiniLM-L6-v2` converts English text into dense mathematical arrays.
+4. **The Vault Drop**: Injects the arrays into `langchain_pg_embedding` for instant semantic similarity search prior to trade execution.
+
+---
+
+## 🚦 Deployment & Ignition Sequence
+*Disclaimer: Architecture built for advanced research and simulation. Automated trading involves significant risk of loss.*
+
+### 1. Secure Environment Initialization
+Create a `.env` file in the root directory. **(Never commit this file to version control).**
+```bash
+# Exchange & Intelligence Keys
 ALPACA_KEY=your_alpaca_key
 ALPACA_SECRET=your_alpaca_secret
-CRYPTOPANIC_KEY=your_developer_key
 GROQ_API_KEY=your_groq_key
+CRYPTOPANIC_KEY=your_cryptopanic_key
+
+# Infrastructure Security
+DB_PASSWORD=highly_secure_vault_password
 TELEGRAM_TOKEN=your_bot_token
 TELEGRAM_CHAT_ID=your_chat_id
-DB_PASSWORD=secure_vault_password
-2. Container Orchestration
-Boot the separated database, dashboard, and execution microservices.
 
+2. Ignite the Distributed Architecture
 Bash
+# 1. Boot the entire multi-container infrastructure
 docker-compose up -d --build
-3. Arm the Institutional RAG Vault
-Fire the data pipeline to scrape, vectorize, and permanently index the target SEC 10-K filing.
 
-Bash
+# 2. Arm the Fundamental Vault (Scrape and Vectorize SEC 10-K)
 docker exec -it sentient_analyst python sec_ingestor.py
 
-🛡️ Risk Management & Immutability
-Capital Allocation: Hard-capped at 10% of total equity per strike.
+# 3. Verify systems are running and actively hunting
+docker logs -f sentient_writer
 
-Volatility Shield: Dynamic Stop-Loss deployed at 3.0×ATR (Average True Range) to prevent standard-deviation shakeouts.
+3. Access Command & Control
+Navigate to http://localhost:8501 to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
-Immutable Audit Logging: Every execution, alongside its exact mathematical parameters (RSI, SMA) and AI reasoning, is permanently written to the TimescaleDB execution_audit table.
+🗺️ Strategic Roadmap: Mission Accomplished
+Phase A: The Quantitative Engine ✅
 
-Nuclear Override: The Streamlit dashboard features a one-click HTTP command to market-sell all active positions and halt the daemon globally.
+[x] Integrate live Binance data streams and calculate multi-factor math locks.
+
+[x] Connect Alpaca Trade API with dynamic ATR stop-loss algorithms.
+
+Phase B: The Glass Box & Audit Ledger ✅
+
+[x] Deploy TimescaleDB for time-series optimized execution logging.
+
+[x] Build Streamlit UI with Emergency Liquidation overrides.
+
+[x] Establish Telegram push-notification telemetry.
+
+Phase C: The Institutional RAG Brain ✅
+
+[x] Deploy isolated edgar_processor microservice for heavy NLP.
+
+[x] Construct BeautifulSoup pipeline to autonomously scrape SEC filings.
+
+[x] Integrate PGVector and LangChain for semantic database querying.
+
+[x] Establish the final Triple-Node consensus lock.
+
+<div align="center">
+<i>Engineered for Alpha. Built for Resilience.</i>
+</div>
