@@ -56,7 +56,7 @@ RSI_PERIOD = 14
 MACD_FAST = 12
 MACD_SLOW = 26
 MACD_SIGNAL = 9
-TAKE_PROFIT_PCT = 0.02    # 2% Target
+TAKE_PROFIT_PCT = 0.015 # 2% Target
 
 # --- 1. NOTIFICATION ENGINE ---
 def send_telegram(message):
