@@ -95,30 +95,30 @@ docker logs -f sentient_writer
 ### 3. Access Command & Control
 Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
-### 🗺️ Strategic Roadmap: Mission Accomplished
+### 4. 🗺️ Strategic Roadmap: Mission Accomplished
 * Phase A: The Quantitative Engine ✅
 
-[x] Integrate live Binance data streams and calculate multi-factor math locks.
+  [x] Integrate live Binance data streams and calculate multi-factor math locks.
 
-[x] Connect Alpaca Trade API with dynamic ATR stop-loss algorithms.
+  [x] Connect Alpaca Trade API with dynamic ATR stop-loss algorithms.
 
 * Phase B: The Glass Box & Audit Ledger ✅
 
-[x] Deploy TimescaleDB for time-series optimized execution logging.
+  [x] Deploy TimescaleDB for time-series optimized execution logging.
 
-[x] Build Streamlit UI with Emergency Liquidation overrides.
+  [x] Build Streamlit UI with Emergency Liquidation overrides.
 
-[x] Establish Telegram push-notification telemetry.
+  [x] Establish Telegram push-notification telemetry.
 
 * Phase C: The Institutional RAG Brain ✅
 
-[x] Deploy isolated edgar_processor microservice for heavy NLP.
+  [x] Deploy isolated edgar_processor microservice for heavy NLP.
 
-[x] Construct BeautifulSoup pipeline to autonomously scrape SEC filings.
+  [x] Construct BeautifulSoup pipeline to autonomously scrape SEC filings.
 
-[x] Integrate PGVector and LangChain for semantic database querying.
+  [x] Integrate PGVector and LangChain for semantic database querying.
 
-[x] Establish the final Triple-Node consensus lock.
+  [x] Establish the final Triple-Node consensus lock.
 
 <div align="center">
 <i>Engineered for Alpha. Built for Resilience.</i>
