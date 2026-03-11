@@ -80,9 +80,9 @@ CRYPTOPANIC_KEY=your_cryptopanic_key
 DB_PASSWORD=highly_secure_vault_password
 TELEGRAM_TOKEN=your_bot_token
 TELEGRAM_CHAT_ID=your_chat_id
-
+```
 2. Ignite the Distributed Architecture
-Bash
+```Bash
 # 1. Boot the entire multi-container infrastructure
 docker-compose up -d --build
 
@@ -91,7 +91,7 @@ docker exec -it sentient_analyst python sec_ingestor.py
 
 # 3. Verify systems are running and actively hunting
 docker logs -f sentient_writer
-
+```
 3. Access Command & Control
 Navigate to http://localhost:8501 to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
