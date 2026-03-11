@@ -96,13 +96,13 @@ docker logs -f sentient_writer
 Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
 ### 4. 🗺️ Strategic Roadmap: Mission Accomplished
-* Phase A: The Quantitative Engine ✅
+* **Phase A: The Quantitative Engine ✅**
 
   [x] Integrate live Binance data streams and calculate multi-factor math locks.
 
   [x] Connect Alpaca Trade API with dynamic ATR stop-loss algorithms.
 
-* Phase B: The Glass Box & Audit Ledger ✅
+* **Phase B: The Glass Box & Audit Ledger ✅**
 
   [x] Deploy TimescaleDB for time-series optimized execution logging.
 
@@ -110,7 +110,7 @@ Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here
 
   [x] Establish Telegram push-notification telemetry.
 
-* Phase C: The Institutional RAG Brain ✅
+* **Phase C: The Institutional RAG Brain ✅**
 
   [x] Deploy isolated edgar_processor microservice for heavy NLP.
 
