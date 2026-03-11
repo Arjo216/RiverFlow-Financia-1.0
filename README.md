@@ -96,7 +96,7 @@ docker logs -f sentient_writer
 Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
 ### 4. 🗺️ Strategic Roadmap: Mission Accomplished
- * **Phase A: The Quantitative Engine ✅**
+***Phase A: The Quantitative Engine ✅**
 
     [x] Integrate live Binance data streams and calculate multi-factor math locks.
 
