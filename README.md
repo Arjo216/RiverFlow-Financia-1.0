@@ -82,7 +82,7 @@ TELEGRAM_TOKEN=your_bot_token
 TELEGRAM_CHAT_ID=your_chat_id
 
 2. Ignite the Distributed Architecture
-```Bash
+Bash
 # 1. Boot the entire multi-container infrastructure
 docker-compose up -d --build
 
