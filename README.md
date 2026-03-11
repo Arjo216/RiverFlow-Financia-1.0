@@ -80,9 +80,9 @@ CRYPTOPANIC_KEY=your_cryptopanic_key
 DB_PASSWORD=highly_secure_vault_password
 TELEGRAM_TOKEN=your_bot_token
 TELEGRAM_CHAT_ID=your_chat_id
-
-2. Ignite the Distributed Architecture
-Bash
+```
+### 2. Ignite the Distributed Architecture
+```Bash
 # 1. Boot the entire multi-container infrastructure
 docker-compose up -d --build
 
@@ -91,18 +91,18 @@ docker exec -it sentient_analyst python sec_ingestor.py
 
 # 3. Verify systems are running and actively hunting
 docker logs -f sentient_writer
+```
+### 3. Access Command & Control
+Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
-3. Access Command & Control
-Navigate to http://localhost:8501 to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
-
-🗺️ Strategic Roadmap: Mission Accomplished
-Phase A: The Quantitative Engine ✅
+### 🗺️ Strategic Roadmap: Mission Accomplished
+* Phase A: The Quantitative Engine ✅
 
 [x] Integrate live Binance data streams and calculate multi-factor math locks.
 
 [x] Connect Alpaca Trade API with dynamic ATR stop-loss algorithms.
 
-Phase B: The Glass Box & Audit Ledger ✅
+* Phase B: The Glass Box & Audit Ledger ✅
 
 [x] Deploy TimescaleDB for time-series optimized execution logging.
 
@@ -110,7 +110,7 @@ Phase B: The Glass Box & Audit Ledger ✅
 
 [x] Establish Telegram push-notification telemetry.
 
-Phase C: The Institutional RAG Brain ✅
+* Phase C: The Institutional RAG Brain ✅
 
 [x] Deploy isolated edgar_processor microservice for heavy NLP.
 
