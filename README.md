@@ -121,5 +121,5 @@ Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here
     [x] Establish the final Triple-Node consensus lock.
 
 <div align="center">
-<i>Engineered for Alpha. Built for Resilience.</i>
+<i><b>Engineered for Alpha. Built for Resilience.</b></i>
 </div>
