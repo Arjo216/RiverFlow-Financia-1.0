@@ -95,6 +95,59 @@ docker logs -f sentient_writer
 ### 3. Access Command & Control
 Navigate to *http://localhost:8501* to access the Streamlit Dashboard. From here, you can query the RAG SEC Vault and monitor the Immutable Audit Ledger in real-time.
 
+---
+
+```mermaid
+graph TD
+    %% Custom Styling for a "Dark Mode" Cyberpunk Aesthetic
+    classDef ingest fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5,rx:8px,ry:8px;
+    classDef node_math fill:#16161e,stroke:#9ece6a,stroke-width:3px,color:#9ece6a,rx:10px,ry:10px;
+    classDef node_ai fill:#24142c,stroke:#f7768e,stroke-width:3px,color:#f7768e,rx:10px,ry:10px;
+    classDef database fill:#1e1e2e,stroke:#e0af68,stroke-width:2px,color:#e0af68,rx:5px,ry:5px;
+    classDef execution fill:#0f1c2e,stroke:#0db9d7,stroke-width:3px,color:#0db9d7,rx:15px,ry:15px;
+    classDef telemetry fill:#2b1d14,stroke:#ff9e64,stroke-width:2px,color:#ff9e64,rx:5px,ry:5px;
+
+    %% Data Ingestion Layer
+    subgraph INGESTION ["📡 Layer 1: Global Data Ingestion"]
+        direction LR
+        Tick[Binance Webhooks<br/>Live 1m Candles]:::ingest
+        News[CryptoPanic API<br/>Global Headlines]:::ingest
+        SEC[SEC Edgar<br/>10-K Filings]:::ingest
+    end
+
+    %% The Triple-Node Consensus Engine
+    subgraph ENGINE ["🧠 Layer 2: RiverFlow Triple-Node Consensus"]
+        direction TB
+        N1{Node 1: The Quant<br/>RSI / MACD / SMA}:::node_math
+        N2{Node 2: The Sentinel<br/>Groq Llama-3.3-70B}:::node_ai
+        N3{Node 3: The Vault<br/>PGVector RAG Clearance}:::node_ai
+
+        Tick -->|Price Action| N1
+        News -->|Live Text| N2
+        SEC -->|Vectorized Chunks| N3
+    end
+
+    %% Execution & Telemetry Layer
+    subgraph EXECUTION ["⚡ Layer 3: Autonomous Execution & Audit"]
+        direction TB
+        Consensus((TRIPLE<br/>LOCK)):::execution
+        Exchange[Alpaca Paper API<br/>Bracket Orders]:::ingest
+        DB[(TimescaleDB<br/>Immutable Ledger)]:::database
+        UI[Streamlit Glass Box<br/>& Telegram Bot]:::telemetry
+
+        N1 -->|Technical Sync| Consensus
+        N2 -->|Score > 0.3| Consensus
+        N3 -->|Fundamental Clear| Consensus
+
+        Consensus -->|Execute BUY/SELL| Exchange
+        Consensus -->|Engrave Audit Trail| DB
+        Exchange -.->|Order Status / PnL| UI
+        DB -.->|Read Telemetry| UI
+    end
+```
+
+---
+
 ### 4. 🗺️ Strategic Roadmap: Mission Accomplished
 * **Phase A: The Quantitative Engine ✅**
 
